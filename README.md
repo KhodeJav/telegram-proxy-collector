@@ -8,7 +8,7 @@
 
 ---
 
-# 📘 EN | [FA](#-فارسی) 📕
+# 📘 [EN](#en-english) | [FA](#-فارسی) 📕
 
 # EN English
 
