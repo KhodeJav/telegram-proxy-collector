@@ -1,3 +1,4 @@
+https://t.me/proxy?server=109.104.154.22&port=3000&secret=z56nr8_sxe3vdqywjemkvq
 tg://proxy?server=49.13.39.63&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=a.prx.mom&port=443&secret=ee38d57ebd94e6ca7effcdd4d7f98ef172736d617274636170746368612e79616e646578636c6f75642e6e6574
 tg://proxy?server=31.15.18.191&port=8880&secret=dd3fc0425ac2eb975dcef9f16218e2e48d
