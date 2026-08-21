@@ -203,27 +203,10 @@ Your Client
 ### 1. لینک Subscription را کپی کنید
 
 ```text
-YOUR_SUBSCRIPTION_URL
-```
-
-### 2. وارد بخش Subscription کلاینت شوید
-
-```text
-Subscription
-Remote Subscription
-Subscription Groups
-Import from URL
-```
-
-### 3. لینک را اضافه کنید
-
-```text
 https://raw.githubusercontent.com/khodejav/telegram-proxy-collector/main/output/proxies.txt
 ```
 
-### 4. روی Update بزنید
-
-تمام.
+### 2. لینک بالا کپی و در مروگر پیست کنید و سپس لینک را باز کنید
 
 ---
 
