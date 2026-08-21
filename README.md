@@ -17,7 +17,7 @@
 ### 🔗 لینک اصلی
 
 ```text
-[YOUR_SUBSCRIPTION_URL](https://raw.githubusercontent.com/khodejav/telegram-proxy-collector/main/output/proxies.txt)
+https://raw.githubusercontent.com/khodejav/telegram-proxy-collector/main/output/proxies.txt
 ```
 
 > این لینک را در کلاینت خود اضافه کنید و فقط Subscription را Update کنید.
@@ -83,7 +83,7 @@ Your Client
 ### 1. لینک Subscription را کپی کنید
 
 ```text
-[YOUR_SUBSCRIPTION_URL](https://raw.githubusercontent.com/Khodejav/telegram-proxy-collector/main/output/proxies.txt)
+https://raw.githubusercontent.com/Khodejav/telegram-proxy-collector/main/output/proxies.txt
 ```
 
 ### 2. سپس لینک کپی شده Subscription شده را در مرورگر خود باز کنید 
@@ -218,7 +218,7 @@ Import from URL
 ### 3. لینک را اضافه کنید
 
 ```text
-[YOUR_SUBSCRIPTION_URL](https://raw.githubusercontent.com/khodejav/telegram-proxy-collector/main/output/proxies.txt)
+https://raw.githubusercontent.com/khodejav/telegram-proxy-collector/main/output/proxies.txt
 ```
 
 ### 4. روی Update بزنید
