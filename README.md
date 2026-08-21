@@ -10,6 +10,8 @@
 
 # 📘 EN | [FA](#-فارسی) 📕
 
+# EN English
+
 ## 🌐 Subscription | اشتراک
 
 ### 🔗 لینک اصلی
