@@ -1,3 +1,12 @@
+tg://proxy?server=77.92.151.75&port=8443&secret=10e7f2cb73eb9160e6be4a311df10b7f
+tg://proxy?server=cloud.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636c6f75642e6d746a6c706f746f2e666974
+tg://proxy?server=109.120.140.194&port=443&secret=ee68ae8284982465dfcb198342d01cdedb6f7a6f6e2e7275
+tg://proxy?server=global.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3676c6f62616c2e6c6f76656c792e6c6174
+tg://proxy?server=music-telo.ir&port=7980&secret=dd1603010200010001fc030386e24c3add
+tg://proxy?server=66.33.22.225&port=23318&secret=06bac5484a3d885302fea80a7f890551
+tg://proxy?server=194.60.228.11&port=2053&secret=dd79e344818749bd7ac519130220c25d09
+tg://proxy?server=5.75.221.218&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=flow.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318666c6f772e6d7470726f78792e6363
 tg://proxy?server=213.239.220.229&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=213.239.220.238&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=116.203.12.228&port=8443&secret=dd104462821249bd7ac519130220c25d09
