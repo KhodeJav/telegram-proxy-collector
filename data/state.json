@@ -2,42 +2,42 @@
   "channels": {
     "-1001091853463": {
       "id": 1091853463,
-      "last_checked_at": "2026-08-22T15:45:43.204228+00:00",
+      "last_checked_at": "2026-08-22T16:21:08.340665+00:00",
       "last_message_id": 34556,
       "title": "Proxy MTProto | پروکسی",
       "username": null
     },
     "-1001222575463": {
       "id": 1222575463,
-      "last_checked_at": "2026-08-22T15:45:41.708259+00:00",
+      "last_checked_at": "2026-08-22T16:21:08.127035+00:00",
       "last_message_id": 16662,
       "title": "دارک پروکسی | Proxy mtproto",
       "username": null
     },
     "-1001255505817": {
       "id": 1255505817,
-      "last_checked_at": "2026-08-22T15:45:41.048243+00:00",
+      "last_checked_at": "2026-08-22T16:21:07.626576+00:00",
       "last_message_id": 7276,
       "title": "MTProto Proxy | پروکسی",
       "username": null
     },
     "-1001393561803": {
       "id": 1393561803,
-      "last_checked_at": "2026-08-22T15:45:41.405852+00:00",
+      "last_checked_at": "2026-08-22T16:21:07.853015+00:00",
       "last_message_id": 11125,
       "title": "𝗧𝗲𝗹𝗣𝗝 | پروکسی‌ و‌ ویتوری رایگان",
       "username": null
     },
     "-1001985660752": {
       "id": 1985660752,
-      "last_checked_at": "2026-08-22T15:45:40.085801+00:00",
-      "last_message_id": 69826,
+      "last_checked_at": "2026-08-22T16:21:05.626596+00:00",
+      "last_message_id": 69832,
       "title": "خبر +18 | اخبار جنگ",
       "username": "khabari_18"
     },
     "-1002199302258": {
       "id": 2199302258,
-      "last_checked_at": "2026-08-22T15:45:40.732204+00:00",
+      "last_checked_at": "2026-08-22T16:21:07.368000+00:00",
       "last_message_id": 35275,
       "title": "ProxyMars",
       "username": null
@@ -51,17 +51,17 @@
     },
     "-1002547984235": {
       "id": 2547984235,
-      "last_checked_at": "2026-08-22T15:45:40.399970+00:00",
-      "last_message_id": 5821,
+      "last_checked_at": "2026-08-22T16:21:07.078767+00:00",
+      "last_message_id": 5822,
       "title": "Proxy Collector | Mtproto",
       "username": "MtprotoCollector"
     }
   },
   "meta": {
-    "active_proxies": 91,
+    "active_proxies": 94,
     "expired_proxies": 0,
-    "last_run_at": "2026-08-22T15:45:43.205180+00:00",
-    "new_proxies": 0,
+    "last_run_at": "2026-08-22T16:21:08.341587+00:00",
+    "new_proxies": 3,
     "retention_hours": 12,
     "successful_channels": 7,
     "total_channels": 7
@@ -139,6 +139,15 @@
         "message_id": 11123
       }
     },
+    "19a0a264de9d4ac08e7776071f4092fc803208f6081736adc96d0892ac670f82": {
+      "first_seen": "2026-08-22T16:21:06.031883+00:00",
+      "proxy": "tg://proxy?server=217.11.164.70&port=443&secret=af1b6bbc2d581b7e79def96fc5e02962",
+      "source": {
+        "channel": "-1002547984235",
+        "message_date": "2026-08-22T16:21:03+00:00",
+        "message_id": 5822
+      }
+    },
     "1a6a75bc0a3de46da92f8e8295101983e7399369fe4b22ea73cd4960734084d8": {
       "first_seen": "2026-08-22T13:52:13.478431+00:00",
       "proxy": "tg://proxy?server=91.224.74.35&port=2066&secret=dd805054822d5d6e3c37feeefccfab5c9e",
@@ -164,6 +173,15 @@
         "channel": "-1001393561803",
         "message_date": "2026-08-22T08:42:02+00:00",
         "message_id": 11124
+      }
+    },
+    "2f6b676732f113f772f50d594dde05eae5834dfc3737b2cc8be5d321e5387643": {
+      "first_seen": "2026-08-22T16:21:06.031920+00:00",
+      "proxy": "tg://proxy?server=178.104.156.1&port=443&secret=yyeegydjxfrfmgmcimjdjjruewvrdgfuzxq",
+      "source": {
+        "channel": "-1002547984235",
+        "message_date": "2026-08-22T16:21:03+00:00",
+        "message_id": 5822
       }
     },
     "30275a151bef46a2ed51281caab2d26efafb0f4aa4dae4472b1c5e36f01de1d4": {
@@ -497,6 +515,15 @@
         "channel": "-1001255505817",
         "message_date": "2026-08-22T05:43:02+00:00",
         "message_id": 7264
+      }
+    },
+    "965e29d8770d473ab8559604d30c330dcd975bd12240d1ea22d5f2f195a161d6": {
+      "first_seen": "2026-08-22T16:21:06.031911+00:00",
+      "proxy": "tg://proxy?server=music-alo.ir&port=7980&secret=dd1603010200010001fc030386e24c3add",
+      "source": {
+        "channel": "-1002547984235",
+        "message_date": "2026-08-22T16:21:03+00:00",
+        "message_id": 5822
       }
     },
     "96c9e5c879ae4b92a1756b7bcc308807c9e6ca79a86e375905339c0d6e26688f": {
