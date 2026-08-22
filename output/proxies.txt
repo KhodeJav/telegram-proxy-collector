@@ -1,3 +1,7 @@
+https://t.me/proxy?server=ir.speed.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+tg://proxy?server=reseau.proxy.rlwy.net&port=40499&secret=9552010977cd825be74e28e812423e1c
+tg://proxy?server=00k8j1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=88o6k1.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=goat.nisti.co.uk&port=8880&secret=eenegydjvxrfgrmcimjdcq
 https://t.me/proxy?server=gold.lavazemi4.co.uk&port=2096&secret=eenegydjvxrfgrmcimjdcq
 https://t.me/proxy?server=ai.golgoli1.co.uk&port=2096&secret=eenegydjvxrfgrmcimjdcq
