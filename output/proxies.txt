@@ -1,3 +1,4 @@
+tg://proxy?server=94.130.188.195&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=dynu.ir.telbet.lol.&port=80&secret=3rbz3hntxabj6l5bqipx2_s=
 tg://proxy?server=spawn.whiteproxy.baby&port=443&secret=dda5ea267d37124af5829b266a759e24a0
 tg://proxy?server=meow-meow-fast.site&port=443&secret=eeaea279c83d92a4c4fa8a780bf10b8c4b6d656f772d6d656f772d666173742e73697465
