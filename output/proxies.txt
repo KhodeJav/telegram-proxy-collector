@@ -62,7 +62,3 @@ tg://proxy?server=65.109.183.128&port=4455&secret=104462821249bd7ac519130220c25d
 tg://proxy?server=connect.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f3636f6e6e6563742e6c6f76656c792e6c6174
 tg://proxy?server=45.157.118.98&port=7000&secret=qo7cxp0cch1c6l0ddtuzxw
 tg://proxy?server=api.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36d2e6265626f6f2e7275
-https://t.me/proxy?server=ir.speed.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-tg://proxy?server=reseau.proxy.rlwy.net&port=40499&secret=9552010977cd825be74e28e812423e1c
-tg://proxy?server=00k8j1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=88o6k1.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
