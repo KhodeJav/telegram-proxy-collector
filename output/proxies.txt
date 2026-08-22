@@ -1,3 +1,9 @@
+https://t.me/proxy?server=45.157.118.189&port=8000&secret=d-utlxrexfxktbbetuyrmq
+https://t.me/proxy?server=45.157.118.98&port=7000&secret=qo7cxp0cch1c6l0ddtuzxw
+tg://proxy?server=66.33.22.220&port=25658&secret=be870d657596617dc418cdef1c8af63c
+tg://proxy?server=82.152.162.25&port=10006&secret=ee548593a9c0688f4f7d9d57377897d964636c6f7564666c6172652e636f6d
+tg://proxy?server=8ollk8j1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=0iiio6k1.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=88o6k1.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=00k8j1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=blue.golgoli2.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
@@ -46,6 +52,3 @@ tg://proxy?server=159.194.234.168&port=443&secret=eedddddddddddddddddddddddddddd
 tg://proxy?server=connect.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
 tg://proxy?server=49.13.34.125&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=109.104.154.22&port=3000&secret=z56nr8_sxe3vdqywjemkvq
-tg://proxy?server=49.13.39.63&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=a.prx.mom&port=443&secret=ee38d57ebd94e6ca7effcdd4d7f98ef172736d617274636170746368612e79616e646578636c6f75642e6e6574
-tg://proxy?server=31.15.18.191&port=8880&secret=dd3fc0425ac2eb975dcef9f16218e2e48d
