@@ -1,3 +1,4 @@
+tg://proxy?server=167.233.250.101&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=45.11.92.251&port=443&secret=eea339ca5cc76d3f7946a1356a63f0947d6b69636b2e636f6d
 tg://proxy?server=201.7.27.14&port=443&secret=eeef7017f26c9ecb71ed8d760999294318676174657761792e6d7470726f78792e6363
 tg://proxy?server=144.31.245.188&port=443&secret=ddfcf17efba705116004834052fa3605d6
@@ -88,12 +89,3 @@ https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd
 https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=150.241.65.113&port=443&secret=eeb87dc15f92c391155eccb9293e2881796f7a6f6e2e7275
-tg://proxy?server=gateway.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c64676174657761792e6c6f76656c792e6c6174
-tg://proxy?server=109.104.154.22&port=3000&secret=z56nr8_sxe3vdqywjemkvq
-tg://proxy?server=88.99.30.97&port=8443&secret=104462821249bd7ac519130220c25d09
-tg://proxy?server=nngo.cc.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-tg://proxy?server=v2.rkn.dog&port=443&secret=eeec8cecad5e274978236d74dffcd82cd976322e726b6e2e646f67
-tg://proxy?server=109.104.153.172&port=2000&secret=nwykmpyjjqwdoodchbbzbw
-tg://proxy?server=159.194.234.168&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
-tg://proxy?server=connect.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
