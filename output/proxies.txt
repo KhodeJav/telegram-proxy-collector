@@ -1,3 +1,5 @@
+tg://proxy?server=49.13.34.119&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=45.157.117.172&port=8000&secret=ee061c236e18e445c8e3bc61fbfccdf2f86175746f73636f757432342e7275
 https://t.me/proxy?server=Hub.whiteblox.org.&port=80&secret=3rbz3hntxabj6l5bqipx2_s=
 https://t.me/proxy?server=rich.whiteblox.org.&port=80&secret=3rbz3hntxabj6l5bqipx2_s=
 tg://proxy?server=proxy.soundfiy.ir&port=443&secret=75c2048d0002b7dfd72e06bd5ed5f60d
