@@ -78,4 +78,3 @@ tg://proxy?server=v2.rkn.dog&port=443&secret=eeec8cecad5e274978236d74dffcd82cd97
 tg://proxy?server=109.104.153.172&port=2000&secret=nwykmpyjjqwdoodchbbzbw
 tg://proxy?server=159.194.234.168&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
 tg://proxy?server=connect.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
-tg://proxy?server=49.13.34.125&port=8443&secret=dd104462821249bd7ac519130220c25d09
