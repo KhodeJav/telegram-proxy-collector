@@ -35,4 +35,3 @@ tg://proxy?server=flow.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d76099929
 tg://proxy?server=213.239.220.229&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=213.239.220.238&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=116.203.12.228&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=94.130.191.30&port=8443&secret=dd104462821249bd7ac519130220c25d09
