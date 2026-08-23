@@ -61,5 +61,3 @@ tg://proxy?server=iro.varfootball2.co.uk&port=2053&secret=eenegydjvxrfgrmcimjdcq
 tg://proxy?server=silnet.varfootball.co.uk&port=2053&secret=eenegydjvxrfgrmcimjdcq
 tg://proxy?server=tavalodtavalod.tavalodet-mobarak.ir&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e616b616d61692e737465616d7374617469632e636f6d
 tg://proxy?server=49.13.37.130&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=49.13.38.253&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=49.13.34.192&port=8443&secret=dd104462821249bd7ac519130220c25d09
