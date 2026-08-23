@@ -45,4 +45,3 @@ tg://proxy?server=cdn.mtproxy.cc&port=443&secret=eefbfe5681832d6f42bbc050839be23
 tg://proxy?server=178.104.156.1&port=443&secret=yyeegydjxfrfmgmcimjdjjruewvrdgfuzxq
 tg://proxy?server=music-alo.ir&port=7980&secret=dd1603010200010001fc030386e24c3add
 tg://proxy?server=217.11.164.70&port=443&secret=af1b6bbc2d581b7e79def96fc5e02962
-tg://proxy?server=167.233.250.101&port=8443&secret=dd104462821249bd7ac519130220c25d09
