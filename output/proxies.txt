@@ -1,3 +1,11 @@
+https://t.me/proxy?server=172.65.105.80&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=172.65.122.51&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=new.canmycheshm.co.uk.&port=22&secret=aaaaaaaaaaaaaaaaaaaaaa==
+https://t.me/proxy?server=172.65.111.25&port=22&secret=aaaaaaaaaaaaaaaaaaaaaa==
+https://t.me/proxy?server=can.you.tell.me.how.can.i.bokhoramet.kiroftopmine.site.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=close.your.mouth.and.eyse.kiroftopmine.site.&port=22&secret=aaaaaaaaaaaaaaaaaaaaaa==
+https://t.me/proxy?server=dark.canmycheshm.co.uk.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=172.65.113.134&port=22&secret=aaaaaaaaaaaaaaaaaaaaaa==
 tg://proxy?server=5.75.221.194&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=91.107.177.198&port=4443&secret=dd104462821249bd7ac519130220c8dd09
 tg://proxy?server=5.75.220.118&port=8443&secret=dd104462821249bd7ac519130220c25d09
