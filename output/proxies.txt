@@ -1,3 +1,7 @@
+tg://proxy?server=black.whiteproxy.baby&port=443&secret=dd5418042aeb467cd038dbeb048b06aadb
+tg://proxy?server=stream.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174
+tg://proxy?server=46.225.90.135&port=443&secret=eenegydjvxrfgrmcimjdcq
+tg://proxy?server=201.51.21.236&port=443&secret=ee1e15e5be813d207cc9955bd0f9cada957777772e616d7374657264616d2e6e6c
 tg://proxy?server=5.75.220.123&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=172.65.105.80&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=172.65.122.51&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
