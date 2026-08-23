@@ -1,3 +1,9 @@
+tg://proxy?server=node.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36e6f64652e6c6f76656c792e6c6174
+tg://proxy?server=v.gredline.com&port=8080&secret=346b196bed688633a859f40150d51edb
+tg://proxy?server=ad-1.reelunza.com&port=8443&secret=eea8ae94137f6a161773384a10bf176a5c61642d312e7265656c756e7a612e636f6d
+tg://proxy?server=87.120.106.174&port=2087&secret=db82ea8d16475ffc11ce3424be10128d
+tg://proxy?server=yandex-tunnel.com&port=443&secret=4cc83d19c09c796a4dffdd136cf06a22
+tg://proxy?server=45.202.254.22&port=2000&secret=eec0f8f7d7980155271d44c1f3212f7c607869756e6f2e636e
 https://t.me/proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -40,11 +46,3 @@ tg://proxy?server=cluster.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d76099
 tg://proxy?server=51.77.108.121&port=2096&secret=yyeegydjxfrfmgmcimjdjjruewvrdgfuzxq
 tg://proxy?server=link.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c646d2e6265626f6f2e7275
 tg://proxy?server=43.159.7.3&port=56241&secret=dd7e2d083ae095cf4e4c152fdad00e377f
-https://t.me/proxy?server=172.65.122.51&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
-https://t.me/proxy?server=new.canmycheshm.co.uk.&port=22&secret=aaaaaaaaaaaaaaaaaaaaaa==
-https://t.me/proxy?server=dark.canmycheshm.co.uk.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
-https://t.me/proxy?server=172.65.105.80&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
-https://t.me/proxy?server=172.65.111.25&port=22&secret=aaaaaaaaaaaaaaaaaaaaaa==
-https://t.me/proxy?server=172.65.113.134&port=22&secret=aaaaaaaaaaaaaaaaaaaaaa==
-https://t.me/proxy?server=close.your.mouth.and.eyse.kiroftopmine.site.&port=22&secret=aaaaaaaaaaaaaaaaaaaaaa==
-https://t.me/proxy?server=can.you.tell.me.how.can.i.bokhoramet.kiroftopmine.site.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
