@@ -1,3 +1,5 @@
+https://t.me/proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=
+https://t.me/proxy?server=panel.hook--tehran.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=
 tg://proxy?server=black.whiteproxy.baby&port=443&secret=dd5418042aeb467cd038dbeb048b06aadb
 tg://proxy?server=stream.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174
 tg://proxy?server=46.225.90.135&port=443&secret=eenegydjvxrfgrmcimjdcq
