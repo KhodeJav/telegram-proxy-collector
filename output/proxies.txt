@@ -1,3 +1,4 @@
+tg://proxy?server=5.75.221.111&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=node.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36e6f64652e6c6f76656c792e6c6174
 tg://proxy?server=v.gredline.com&port=8080&secret=346b196bed688633a859f40150d51edb
 tg://proxy?server=ad-1.reelunza.com&port=8443&secret=eea8ae94137f6a161773384a10bf176a5c61642d312e7265656c756e7a612e636f6d
