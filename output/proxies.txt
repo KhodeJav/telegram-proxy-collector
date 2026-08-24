@@ -96,4 +96,3 @@ tg://proxy?server=91.98.103.21&port=8443&secret=dd104462821249bd7ac519130220c25d
 tg://proxy?server=connect.xomodz.fit&port=443&secret=ee96e5c188f25879d7b7e7d989f3e27ca6636f6e6e6563742e786f6d6f647a2e666974
 tg://proxy?server=37.27.93.34&port=443&secret=dd79e7010200010007f0030386e24c3add
 tg://proxy?server=94.184.39.9.aprawood.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
-tg://proxy?server=5.75.221.111&port=8443&secret=dd104462821249bd7ac519130220c25d09
