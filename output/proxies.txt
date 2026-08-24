@@ -1,3 +1,6 @@
+tg://proxy?server=65.21.83.248&port=443&secret=3xnnaqiaaqah8amdhujmot0
+tg://proxy?server=66.33.22.253&port=58109&secret=70473800ea66bd0e8b3445d1b3bc9c39
+tg://proxy?server=13.49.225.236&port=64258&secret=ee569f29d0a11e2fae5e72abe18f445e477777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=94.184.32.109&port=2020&secret=00000000000000000000000000000000
 tg://proxy?server=lazeyka-24.getvelora.space&port=443&secret=eea4fd2303ad0092ac4382c2c9817b18726f7a6f6e2e7275
 tg://proxy?server=194.60.228.55&port=2096&secret=dd79e344818749bd7ac519130220c25d09
