@@ -1,3 +1,4 @@
+tg://proxy?server=94.130.191.30&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=116.203.12.227&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=ir.speed.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=edge.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318656467652e6d7470726f78792e6363
