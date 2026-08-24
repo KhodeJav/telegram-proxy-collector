@@ -1,3 +1,13 @@
+tg://proxy?server=116.203.55.20&port=443&secret=yyeegydjxfrfmgmcimjdjjruewvrdgfuzxq
+tg://proxy?server=mt.everydaynow.top&port=9443&secret=7ruqxsyvrhxadzehmau46mh3d3cuchl0ag9ulm9yzw
+tg://proxy?server=91.98.99.174&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=45.11.187.110&port=8443&secret=eerighjjvxrfgrmcimjdcq
+tg://proxy?server=pars.irankhodro.co.uk&port=8443&secret=eerighjjvxrfgrmcimjdcq
+tg://proxy?server=mttt.cloude.one&port=853&secret=eebc708822d93e406cd550b43d354a016e6d7474742e636c6f7564652e6f6e65
+tg://proxy?server=alo-alo.info.01-62.ir&port=8443&secret=ee6321a38187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d
+tg://proxy?server=45.11.187.130&port=8443&secret=eerighjjvxrfgrmcimjdcq
+tg://proxy?server=91.98.104.153&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=live.lovely.lat&port=443&secret=eeec835a34516912f161a0073339be3c646c6976652e6c6f76656c792e6c6174
 https://t.me/proxy?server=close.your.mouth.and.eyse.kiroftopmine.site.&port=22&secret=aaaaaaaaaaaaaaaaaaaaaa==
 https://t.me/proxy?server=dark.canmycheshm.co.uk.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
 https://t.me/proxy?server=172.65.122.51&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
@@ -78,5 +88,3 @@ tg://proxy?server=tg.aezakmi.org&port=443&secret=eea58fd9b89abdbab2be10da11c8d32
 tg://proxy?server=95-216-180-200.nip.io&port=443&secret=f0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=94.184.39.9&port=2020&secret=dd00000000000000000000000000000000
 tg://proxy?server=16.171.200.232&port=53822&secret=ee8d24d644b34d996c1c2c0e20ebd455dc7777772e736e6170702e6972
-https://t.me/proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
