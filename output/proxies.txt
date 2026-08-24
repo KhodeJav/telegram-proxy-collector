@@ -1,3 +1,4 @@
+tg://proxy?server=5.75.221.111&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -16,4 +17,3 @@ tg://proxy?server=black.whiteproxy.baby&port=443&secret=dd5418042aeb467cd038dbeb
 tg://proxy?server=stream.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f373747265616d2e6c6f76656c792e6c6174
 tg://proxy?server=46.225.90.135&port=443&secret=eenegydjvxrfgrmcimjdcq
 tg://proxy?server=201.51.21.236&port=443&secret=ee1e15e5be813d207cc9955bd0f9cada957777772e616d7374657264616d2e6e6c
-tg://proxy?server=5.75.220.123&port=8443&secret=dd104462821249bd7ac519130220c25d09
