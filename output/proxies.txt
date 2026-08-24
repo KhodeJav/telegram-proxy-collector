@@ -1,3 +1,10 @@
+tg://proxy?server=116.203.12.228&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=157.228.138.47&port=8444&secret=ee7229947cbf11b8a4a9056961245052a96175746f73636f757432342e7275
+tg://proxy?server=45.12.72.161&port=443&secret=ee37cd567bcd5c054e01efc6e59e3f4bbb6d2e6265626f6f2e7275
+tg://proxy?server=3.66.174.194&port=63746&secret=ee6a17fd66efdedd37f7d9041ed4cd71cf7777772e736e6170702e6972
+tg://proxy?server=78.47.158.138&port=7443&secret=yyeegydjxfrfmgmcimjdjjruewvrdgfuzxq
+tg://proxy?server=31.57.108.82&port=443&secret=ee9a6c795e4161815cd4f24cfc8033b5de6d2e6265626f6f2e7275
+tg://proxy?server=hub.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36875622e6c6f76656c792e6c6174
 https://t.me/proxy?server=2d9dd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=2d6dd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=panel.hook--tehran.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=
