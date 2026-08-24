@@ -81,10 +81,3 @@ https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249b
 https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=Fast.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-tg://proxy?server=cache.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f363616368652e6c6f76656c792e6c6174
-tg://proxy?server=45.74.159.17&port=1312&secret=469fe09b277900a8ae91dcefa736056b
-tg://proxy?server=tg.aezakmi.org&port=443&secret=eea58fd9b89abdbab2be10da11c8d324f674672e61657a616b6d692e6f7267
-tg://proxy?server=95-216-180-200.nip.io&port=443&secret=f0eeb0bd9adc4fd4a93994ee3b2a216b
-tg://proxy?server=94.184.39.9&port=2020&secret=dd00000000000000000000000000000000
-tg://proxy?server=16.171.200.232&port=53822&secret=ee8d24d644b34d996c1c2c0e20ebd455dc7777772e736e6170702e6972
