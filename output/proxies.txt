@@ -1,3 +1,5 @@
+https://t.me/proxy?server=ir.speed.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
+tg://proxy?server=178.104.34.88&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -53,4 +55,3 @@ tg://proxy?server=funny.helloworld.surf&port=443&secret=dd8c48a83cc229bab8fca1b4
 tg://proxy?server=max-dock.ngstream.top&port=443&secret=dd4ce800a33de7986a881e0136b84f8a9d
 tg://proxy?server=78.157.53.206&port=443&secret=8e3089ba49a9d92062ace7499808f0e3
 tg://proxy?server=201.7.22.118&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-tg://proxy?server=94.130.191.30&port=8443&secret=dd104462821249bd7ac519130220c25d09
