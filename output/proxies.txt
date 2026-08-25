@@ -74,4 +74,3 @@ tg://proxy?server=143.246.60.145&port=2000&secret=ee6c7e69566f7393c588f17f032835
 tg://proxy?server=mmd.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=
 https://t.me/proxy?server=panel.hook--tehran.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=
-https://t.me/proxy?server=dynu.ir.telbet.lol.&port=80&secret=3rbz3hntxabj6l5bqipx2_s=
