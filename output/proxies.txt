@@ -1,3 +1,6 @@
+tg://proxy?server=assurgent.gaw.openwork.teleseryestvheaven.com&port=443&secret=eeba70264b55773b956a57b9ebe8b2d0cc647a656e2e7275
+tg://proxy?server=5.75.203.181&port=443&secret=7pap43b5solfmk7x9mxjcl1kawn0aw9uyxj5lmnhbwjyawrnzs5vcmc
+tg://proxy?server=116.203.11.67&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=167.233.250.101&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=tassian.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
