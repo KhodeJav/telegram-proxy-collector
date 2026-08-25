@@ -51,11 +51,3 @@ tg://proxy?server=94.184.32.108.aprawood.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaa
 tg://proxy?server=94.184.32.109.aprawood.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
 tg://proxy?server=94.184.32.101.aprawood.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
 tg://proxy?server=91.98.105.49&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=sorat.mese.benz.savare.torobchesho.co.uk.&port=1&secret=ee0000f00f0f375555fffffff4004e3e38626973636f7474692e79656b74616e65742e636f6d
-tg://proxy?server=94.130.188.195&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=185.154.155.181&port=1000&secret=ee7dc7f6423e6222c07f75771d52a7e5a7653065306530306530653072306530643065306430733065306330653065307232723265326532653265
-tg://proxy?server=wise-bolt.ngstream.top&port=443&secret=dded2ddce80bef91d87e3ad1ebcb81dc8d
-tg://proxy?server=funny.helloworld.surf&port=443&secret=dd8c48a83cc229bab8fca1b403f865e9e8
-tg://proxy?server=max-dock.ngstream.top&port=443&secret=dd4ce800a33de7986a881e0136b84f8a9d
-tg://proxy?server=78.157.53.206&port=443&secret=8e3089ba49a9d92062ace7499808f0e3
-tg://proxy?server=201.7.22.118&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
