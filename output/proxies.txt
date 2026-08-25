@@ -1,3 +1,4 @@
+tg://proxy?server=178.104.34.88&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=assurgent.gaw.openwork.teleseryestvheaven.com&port=443&secret=eeba70264b55773b956a57b9ebe8b2d0cc647a656e2e7275
 tg://proxy?server=5.75.203.181&port=443&secret=7pap43b5solfmk7x9mxjcl1kawn0aw9uyxj5lmnhbwjyawrnzs5vcmc
 tg://proxy?server=116.203.11.67&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
@@ -74,7 +75,3 @@ tg://proxy?server=mmd.meli-n12.info&port=8443&secret=dd104462821249bd7ac51913022
 https://t.me/proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=
 https://t.me/proxy?server=panel.hook--tehran.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=
 https://t.me/proxy?server=dynu.ir.telbet.lol.&port=80&secret=3rbz3hntxabj6l5bqipx2_s=
-https://t.me/proxy?server=Fast.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-tg://proxy?server=ratteen.spotting.whirly.gmateleserye.com&port=443&secret=eea60b7acf2dafd3003483abcb4aa347bd647a656e2e7275
-tg://proxy?server=proxy.vechnostnet.study&port=443&secret=ddc646025a400b371427cc76dcf472fe1d
-tg://proxy?server=31.57.46.117&port=8080&secret=vshsjgsgkdnhskenbsyrbbxhdysbdb2lanndgsfdhaaaaeee
