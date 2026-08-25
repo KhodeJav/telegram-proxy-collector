@@ -1,3 +1,4 @@
+https://t.me/proxy?server=dynu.ir.telbet.lol.&port=80&secret=3rbz3hntxabj6l5bqipx2_s=
 https://t.me/proxy?server=Fast.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
 tg://proxy?server=ratteen.spotting.whirly.gmateleserye.com&port=443&secret=eea60b7acf2dafd3003483abcb4aa347bd647a656e2e7275
 tg://proxy?server=proxy.vechnostnet.study&port=443&secret=ddc646025a400b371427cc76dcf472fe1d
@@ -50,4 +51,3 @@ tg://proxy?server=relaywise.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2
 tg://proxy?server=94.184.32.108.aprawood.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
 tg://proxy?server=94.184.32.109.aprawood.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
 tg://proxy?server=94.184.32.101.aprawood.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
-tg://proxy?server=91.98.105.49&port=8443&secret=dd104462821249bd7ac519130220c25d09
