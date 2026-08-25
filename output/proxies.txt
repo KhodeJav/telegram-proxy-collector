@@ -72,5 +72,3 @@ tg://proxy?server=143.246.58.234&port=2006&secret=ee721b39c280d605cbadbbc371da83
 tg://proxy?server=143.246.58.6&port=2000&secret=ee7e7d4bb0d3e114ccf1722a3b173a1eb87869756e6f2e636e
 tg://proxy?server=143.246.60.145&port=2000&secret=ee6c7e69566f7393c588f17f032835951e7869756e6f2e636e
 tg://proxy?server=mmd.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=
-https://t.me/proxy?server=panel.hook--tehran.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=
