@@ -1,3 +1,10 @@
+tg://proxy?server=185.86.146.216&port=443&secret=dd2f22523a9fdd8fa67e391a31db65b614
+tg://proxy?server=proxy.waseworm.ru&port=2076&secret=ddd0d6e111bada5511fcce9584deadbeef
+tg://proxy?server=nnmm.me&port=443&secret=ddf390d9757cb92d87826bcef28a6e75ed
+tg://proxy?server=nngo.cc&port=443&secret=ddf390d9757cb92d87826bcef28a6e75ed
+tg://proxy?server=85.192.32.223&port=443&secret=ddf390d9757cb92d87826bcef28a6e75ed
+tg://proxy?server=89.125.129.198&port=33799&secret=ee4afa0c86517fa085e914a3532e14a69173746570696b2e6f7267
+tg://proxy?server=proxy2.nightvpn.ru&port=443&secret=00000000000000000000001000000000
 tg://proxy?server=116.203.55.20&port=443&secret=yyeegydjxfrfmgmcimjdjjruewvrdgfuzxq
 tg://proxy?server=mt.everydaynow.top&port=9443&secret=7ruqxsyvrhxadzehmau46mh3d3cuchl0ag9ulm9yzw
 tg://proxy?server=91.98.99.174&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -60,10 +67,3 @@ tg://proxy?server=13.49.225.236&port=64258&secret=ee569f29d0a11e2fae5e72abe18f44
 tg://proxy?server=94.184.32.109&port=2020&secret=00000000000000000000000000000000
 tg://proxy?server=lazeyka-24.getvelora.space&port=443&secret=eea4fd2303ad0092ac4382c2c9817b18726f7a6f6e2e7275
 tg://proxy?server=194.60.228.55&port=2096&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=116.203.12.228&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=157.228.138.47&port=8444&secret=ee7229947cbf11b8a4a9056961245052a96175746f73636f757432342e7275
-tg://proxy?server=45.12.72.161&port=443&secret=ee37cd567bcd5c054e01efc6e59e3f4bbb6d2e6265626f6f2e7275
-tg://proxy?server=3.66.174.194&port=63746&secret=ee6a17fd66efdedd37f7d9041ed4cd71cf7777772e736e6170702e6972
-tg://proxy?server=78.47.158.138&port=7443&secret=yyeegydjxfrfmgmcimjdjjruewvrdgfuzxq
-tg://proxy?server=31.57.108.82&port=443&secret=ee9a6c795e4161815cd4f24cfc8033b5de6d2e6265626f6f2e7275
-tg://proxy?server=hub.lovely.lat&port=443&secret=ee499cbaa63a17e5071d5babf1ccba89f36875622e6c6f76656c792e6c6174
