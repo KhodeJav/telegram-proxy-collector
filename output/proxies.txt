@@ -1,3 +1,8 @@
+tg://proxy?server=162.35.175.7&port=443&secret=ee95c48b7ffdc3c10611de234eee0e7e54646c2e676f6f676c652e636f6d
+tg://proxy?server=shap.arrad.shop&port=443&secret=75b9e5fbd8a0dbd3be2dcd02404fd8f0
+tg://proxy?server=94.249.244.159&port=8443&secret=dddd3aeaf67503289606c9b8e6bbfde860
+tg://proxy?server=145.241.205.122&port=443&secret=eea867b8d57e3febaa147e38f8c556b9be7777772e736e6170702e6972
+tg://proxy?server=lazeyka-26.getvelora.space&port=443&secret=ee9227ae52464af62b0b7491a2a34dc6e36f7a6f6e2e7275
 https://t.me/proxy?server=26ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=28ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=116.203.15.40&port=8443&secret=dd104462821249bd7ac519130220c25d09
