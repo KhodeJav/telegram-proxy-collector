@@ -1,3 +1,6 @@
+https://t.me/proxy?server=26ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=28ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=116.203.15.40&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=canaliculate.dago.isobaric.washability.welterweight.umatno.info&port=37806&secret=eeb8d8bd031598309e066afffc53a4c665647a656e2e7275
 tg://proxy?server=95.135.125.8&port=443&secret=dd1f69912fe961e4bd72060955649e6280
 tg://proxy?server=95.135.125.8&port=443&secret=ee1f69912fe961e4bd72060955649e628073332e616d617a6f6e6177732e636f6d
@@ -69,4 +72,3 @@ tg://proxy?server=intel.khelijfars.co.uk&port=8443&secret=eerighjjvxrfgrmcimjdcq
 tg://proxy?server=95.85.237.7&port=14305&secret=dd36d988a8d13716c2c3aa9e90b7a8b18a
 tg://proxy?server=185.173.145.5&port=443&secret=ee68ae8284982465dfcb198342d01cdedb6f7a6f6e2e7275
 tg://proxy?server=194.60.228.11&port=2053&secret=79e344818749bd7ac519130220c25d09
-tg://proxy?server=5.75.222.187&port=8443&secret=dd104462821249bd7ac519130220c25d09
