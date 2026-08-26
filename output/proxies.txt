@@ -45,4 +45,3 @@ tg://proxy?server=ps2.blueheartz.ir&port=62863&secret=564f3b41971e377132f8e0a79a
 tg://proxy?server=www.bojimoji.ir&port=8443&secret=7hydbighsv36xzodaidcxy53d3cuewfob28uy29t
 https://t.me/proxy?server=www.royaclinic.co.uk&port=80&secret=3rbz3hntxabj6l5bqipx2_s=
 tg://proxy?server=91.98.99.27&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=94.130.191.30&port=8443&secret=dd104462821249bd7ac519130220c25d09
