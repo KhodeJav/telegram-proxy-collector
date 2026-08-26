@@ -1,3 +1,4 @@
+tg://proxy?server=94.130.189.25&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=162.35.175.7&port=443&secret=ee95c48b7ffdc3c10611de234eee0e7e54646c2e676f6f676c652e636f6d
 tg://proxy?server=shap.arrad.shop&port=443&secret=75b9e5fbd8a0dbd3be2dcd02404fd8f0
 tg://proxy?server=94.249.244.159&port=8443&secret=dddd3aeaf67503289606c9b8e6bbfde860
@@ -72,8 +73,3 @@ tg://proxy?server=gw-de-rgx-all.chatvpn.net&port=8443&secret=fd6ff2273d5b2a1411c
 tg://proxy?server=p1.proxytesterbot.cloud&port=443&secret=eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=Empire-persia.iran.hey-gardash.info.&port=1080&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=small.startnetwork.shop&port=443&secret=dd50db933e09b161878d2225787ad1dd21
-tg://proxy?server=amd.khelijfars.co.uk&port=8443&secret=eerighjjvxrfgrmcimjdcq
-tg://proxy?server=intel.khelijfars.co.uk&port=8443&secret=eerighjjvxrfgrmcimjdcq
-tg://proxy?server=95.85.237.7&port=14305&secret=dd36d988a8d13716c2c3aa9e90b7a8b18a
-tg://proxy?server=185.173.145.5&port=443&secret=ee68ae8284982465dfcb198342d01cdedb6f7a6f6e2e7275
-tg://proxy?server=194.60.228.11&port=2053&secret=79e344818749bd7ac519130220c25d09
