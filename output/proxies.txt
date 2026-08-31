@@ -1,3 +1,10 @@
+tg://proxy?server=3a.startnetwork.shop&port=443&secret=dd69273bcdcdf7e34b2b6d0f9e8386c127
+tg://proxy?server=summer.vechnostnet.study&port=443&secret=dddec0a247046e4dab47376d96117a8a7c
+tg://proxy?server=91.98.97.225&port=8443&secret=eenegydjvxrfgrmcimjdcq
+tg://proxy?server=l78km.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=87.248.129.101&port=8080&secret=eenegydjvxrfgrmcimjdcq==
+tg://proxy?server=m.mtproto.baby&port=443&secret=ddbecfad4a8c290badf7f6b284f9e06bb8
+tg://proxy?server=kv67m.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=yarypple.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
