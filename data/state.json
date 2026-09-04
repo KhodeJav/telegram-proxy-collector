@@ -2,42 +2,42 @@
   "channels": {
     "-1001091853463": {
       "id": 1091853463,
-      "last_checked_at": "2026-09-03T23:16:51.092558+00:00",
+      "last_checked_at": "2026-09-04T01:09:40.513057+00:00",
       "last_message_id": 34697,
       "title": "Proxy MTProto | پروکسی",
       "username": null
     },
     "-1001222575463": {
       "id": 1222575463,
-      "last_checked_at": "2026-09-03T23:16:50.709397+00:00",
+      "last_checked_at": "2026-09-04T01:09:40.261855+00:00",
       "last_message_id": 16740,
       "title": "دارک پروکسی | Proxy mtproto",
       "username": null
     },
     "-1001255505817": {
       "id": 1255505817,
-      "last_checked_at": "2026-09-03T23:16:50.049903+00:00",
+      "last_checked_at": "2026-09-04T01:09:39.758291+00:00",
       "last_message_id": 7816,
       "title": "MTProto Proxy | پروکسی",
       "username": null
     },
     "-1001393561803": {
       "id": 1393561803,
-      "last_checked_at": "2026-09-03T23:16:50.365363+00:00",
+      "last_checked_at": "2026-09-04T01:09:40.012560+00:00",
       "last_message_id": 11194,
       "title": "𝗧𝗲𝗹𝗣𝗝 | پروکسی‌ و‌ ویتوری رایگان",
       "username": null
     },
     "-1001985660752": {
       "id": 1985660752,
-      "last_checked_at": "2026-09-03T23:16:45.627968+00:00",
+      "last_checked_at": "2026-09-04T01:09:39.053818+00:00",
       "last_message_id": 71096,
-      "title": "خبر +18 | اخبار جنگ",
+      "title": "خبر +18 | اخبار فوری",
       "username": "khabari_18"
     },
     "-1002199302258": {
       "id": 2199302258,
-      "last_checked_at": "2026-09-03T23:16:48.565971+00:00",
+      "last_checked_at": "2026-09-04T01:09:39.513690+00:00",
       "last_message_id": 35687,
       "title": "ProxyMars | خبرفوری",
       "username": null
@@ -51,7 +51,7 @@
     },
     "-1002547984235": {
       "id": 2547984235,
-      "last_checked_at": "2026-09-03T23:16:47.097726+00:00",
+      "last_checked_at": "2026-09-04T01:09:39.285848+00:00",
       "last_message_id": 5908,
       "title": "Mtproto Collector | Proxy",
       "username": "MtprotoCollector"
@@ -59,9 +59,9 @@
   },
   "meta": {
     "active_proxies": 49,
-    "expired_proxies": 24,
-    "last_run_at": "2026-09-03T23:16:51.093410+00:00",
-    "new_proxies": 18,
+    "expired_proxies": 0,
+    "last_run_at": "2026-09-04T01:09:40.513751+00:00",
+    "new_proxies": 0,
     "retention_hours": 12,
     "successful_channels": 7,
     "total_channels": 7
