@@ -43,11 +43,3 @@ tg://proxy?server=195.63.141.106&port=7443&secret=3rydaqiaaqab_amdhujmot0aaq5w5g
 tg://proxy?server=82.152.162.2&port=10002&secret=ee548593a9c0688f4f7d9d57377897d964636c6f7564666c6172652e636f6d
 tg://proxy?server=116.203.12.4&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=159.69.26.26&port=443&secret=dd79e7010200010007f0030386e24c3add
-https://t.me/proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=Fast.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
-https://t.me/proxy?server=62ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=26ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=iran-ir.vingardium.co.uk&port=8443&secret=eerighjjvxrfgrmcimjdcq
-tg://proxy?server=471.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=7kl91.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
