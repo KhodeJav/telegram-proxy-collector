@@ -2,42 +2,42 @@
   "channels": {
     "-1001091853463": {
       "id": 1091853463,
-      "last_checked_at": "2026-09-06T22:41:54.648888+00:00",
+      "last_checked_at": "2026-09-07T00:21:41.578835+00:00",
       "last_message_id": 34740,
       "title": "Proxy MTProto | پروکسی",
       "username": null
     },
     "-1001222575463": {
       "id": 1222575463,
-      "last_checked_at": "2026-09-06T22:41:54.337977+00:00",
+      "last_checked_at": "2026-09-07T00:21:41.373348+00:00",
       "last_message_id": 16756,
       "title": "دارک پروکسی | Proxy mtproto",
       "username": null
     },
     "-1001255505817": {
       "id": 1255505817,
-      "last_checked_at": "2026-09-06T22:41:53.613719+00:00",
+      "last_checked_at": "2026-09-07T00:21:40.952368+00:00",
       "last_message_id": 7921,
       "title": "MTProto Proxy | پروکسی",
       "username": null
     },
     "-1001393561803": {
       "id": 1393561803,
-      "last_checked_at": "2026-09-06T22:41:53.952246+00:00",
+      "last_checked_at": "2026-09-07T00:21:41.166084+00:00",
       "last_message_id": 11214,
       "title": "𝗧𝗲𝗹𝗣𝗝 | پروکسی‌ و‌ ویتوری رایگان",
       "username": null
     },
     "-1001985660752": {
       "id": 1985660752,
-      "last_checked_at": "2026-09-06T22:41:49.148991+00:00",
+      "last_checked_at": "2026-09-07T00:21:40.332338+00:00",
       "last_message_id": 71421,
       "title": "خبر +18 | اخبار فوری",
       "username": "khabari_18"
     },
     "-1002199302258": {
       "id": 2199302258,
-      "last_checked_at": "2026-09-06T22:41:52.099559+00:00",
+      "last_checked_at": "2026-09-07T00:21:40.745364+00:00",
       "last_message_id": 35832,
       "title": "ProxyMars | خبرفوری",
       "username": null
@@ -51,7 +51,7 @@
     },
     "-1002547984235": {
       "id": 2547984235,
-      "last_checked_at": "2026-09-06T22:41:50.624230+00:00",
+      "last_checked_at": "2026-09-07T00:21:40.537481+00:00",
       "last_message_id": 5920,
       "title": "Mtproto Collector | Proxy",
       "username": "MtprotoCollector"
@@ -59,9 +59,9 @@
   },
   "meta": {
     "active_proxies": 26,
-    "expired_proxies": 36,
-    "last_run_at": "2026-09-06T22:41:54.649614+00:00",
-    "new_proxies": 5,
+    "expired_proxies": 0,
+    "last_run_at": "2026-09-07T00:21:41.579461+00:00",
+    "new_proxies": 0,
     "retention_hours": 12,
     "successful_channels": 7,
     "total_channels": 7
