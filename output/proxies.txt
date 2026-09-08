@@ -1,3 +1,8 @@
+https://t.me/proxy?server=pjjp1.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=behtarin.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=napoli.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=meshki.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=Rose.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -36,4 +41,3 @@ tg://proxy?server=212.108.98.7.aprawood.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaa
 tg://proxy?server=212.108.98.6.aprawood.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
 tg://proxy?server=CDN.benzcls.co.uk&port=80&secret=ddab314e8cdeccc7831452ad6dde634b25
 tg://proxy?server=195.201.24.131&port=443&secret=yyeegydjxfrfmgmcimjdjjruewvrdgfuzxq
-https://t.me/proxy?server=sefid.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
