@@ -1,3 +1,16 @@
+tg://proxy?server=91.234.147.6.aprawood.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
+tg://proxy?server=91.234.147.8.aprawood.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
+tg://proxy?server=silver-winst.royaclinic.co.uk.&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=s13.assetflux.org&port=443&secret=ee3afc68787d0be6268346b66a3563001b686f66662e7275
+tg://proxy?server=ir.rebol.info&port=8443&secret=eerighjjvxrfgrmcimjdcq
+tg://proxy?server=cdn12.cdnwave.org&port=443&secret=ee97247322005404a2c7a84d082aace21b686f66662e7275
+tg://proxy?server=he.de-fa.1.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d
+tg://proxy?server=91.234.147.9.aprawood.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
+tg://proxy?server=proxy.growthtrade.eu&port=443&secret=7g__earnmoneywithus___13d3cuy2xvdwrmbgfyzs5jb20
+tg://proxy?server=welcome.kisex.top&port=443&secret=7g__unpackyourgirl__j9n5ys5ydq
+tg://proxy?server=91.234.147.5.aprawood.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
+tg://proxy?server=91.234.147.7.aprawood.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
+tg://proxy?server=Silver-winst.whiteblox.org.&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=Silver-winst.whiteblox.org.&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=co.coe.c7.0co.eu&port=6&secret=dl7_dg5ahuao3g5edg4efg
 https://t.me/proxy?server=ceo.coe.c.0co.eu.&port=8&secret=aqeeefdg5v4ubgnt4q4o3q
