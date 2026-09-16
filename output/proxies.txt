@@ -1,3 +1,5 @@
+https://t.me/proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=135.181.129.162&port=443&secret=3xnnaqiaaqah8amdhujmot0
 https://t.me/proxy?server=www.ahvaz.co.uk.&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=www.pesarelak.ir.&port=443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=
@@ -44,8 +46,3 @@ tg://proxy?server=ir.vpnproxy.cc&port=9443&secret=dd44b44bae444c2b1036a57ad36c0c
 tg://proxy?server=95.163.227.253&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275
 tg://proxy?server=node.lovely.lat&port=443&secret=eeef7017f26c9ecb71ed8d760999294318786170692e6f7a6f6e2e7275
 tg://proxy?server=185.84.156.137&port=444&secret=dd41b712fe12019c64e281bcb6aeccded7
-tg://proxy?server=awned.expatriation.miniaturization.oolitic.outdazzle.umatno.info&port=39267&secret=3dd4a8cc68315179d764d8608456af14
-tg://proxy?server=49.12.9.83&port=443&secret=104462821249bd7ac519130220c25d09
-tg://proxy?server=quiet.img.garfar.ir&port=453&secret=21d0c153f80cc194ea36740052df47c7
-tg://proxy?server=65.21.205.37&port=443&secret=3xnnaqiaaqah8amdhujmot0
-tg://proxy?server=94.184.39.100.aprawood.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
