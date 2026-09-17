@@ -1,3 +1,4 @@
+https://t.me/proxy?server=JOKER.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=messi2.nisti.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=mashtibash.vafadari.co.uk&port=2096&secret=eenegydjvxrfgrmcimjdcq
 tg://proxy?server=t.sibvpn.com&port=443&secret=7je0vaprgtjnb6pkyex6tdfkbc5zb2z0otguaxi
@@ -42,5 +43,3 @@ https://t.me/proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac51
 https://t.me/proxy?server=alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=7ooc.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=n5s.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=135.181.129.162&port=443&secret=3xnnaqiaaqah8amdhujmot0
