@@ -1,3 +1,15 @@
+tg://proxy?server=c.ce.ee.r.e.e.0co.eu&port=6&secret=eeaa3ca6f4ddbe2971abbace139f32138c31313131313131316531653165316531316531653065303164783030653165316430636430
+tg://proxy?server=116.203.2.252&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=136.244.88.237&port=8080&secret=ee0307e7ca4e8db2353791005eb54d33917777772e676f6f676c652e636f6d
+tg://proxy?server=193.32.8.238&port=443&secret=ee9b6a07a971d2d927e9f08ae7b1bd6fce6d2e6265626f6f2e7275
+tg://proxy?server=193.32.8.232&port=443&secret=ee6bb783beed48c9924ee07dd97198f4e86f7a6f6e2e7275
+tg://proxy?server=91.234.147.13.server-space52.info&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
+tg://proxy?server=7999lj.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=sd.cipservice2.co.uk&port=2096&secret=eenegydjvxrfgrmcimjdcq
+tg://proxy?server=788999lj.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=999lj.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=17.masi.ir.he6fhd.ru&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=91.234.147.8.server-space52.info&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
 https://t.me/proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=
 https://t.me/proxy?server=sop.foodpatuy.ir.&port=443&secret=3rbeyoissb16xrktaidcxqk=
 https://t.me/proxy?server=788999lj.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
