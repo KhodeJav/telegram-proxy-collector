@@ -1,3 +1,14 @@
+tg://proxy?server=185.154.155.181&port=1000&secret=ee7dc7f6423e6222c07f75771d52a7e5a7653065306530306530653072306530643065306430733065306330653065307232723265326532653265
+https://t.me/proxy?server=co.coe.c.0co.eu&port=6&secret=4odg4odg4oaodg___u9vvq
+tg://proxy?server=ghavi.nofex-co.info&port=8770&secret=eenegydjvxrfgrmcimjdcq
+tg://proxy?server=193.32.8.193&port=443&secret=ee6c13b79b2975b23bb1b29c3b00b6274a6f7a6f6e2e7275
+tg://proxy?server=193.32.8.192&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496d2e6265626f6f2e7275
+tg://proxy?server=5.75.196.67&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=ping-khoob.ir.paeez-amad.info&port=7443&secret=eenegydjvxrfgrmcimjdcq
+tg://proxy?server=209.222.252.4&port=9443&secret=eea6cd8464ea905bb57fc0d939f8b80dba7777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=38.114.103.175&port=5443&secret=eea6cd8464ea905bb57fc0d939f8b80dba7777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=207.174.28.106&port=2443&secret=eea6cd8464ea905bb57fc0d939f8b80dba7777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=212.192.15.229&port=1443&secret=eea6cd8464ea905bb57fc0d939f8b80dba7777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=
 https://t.me/proxy?server=sop.foodpatuy.ir.&port=443&secret=3rbeyoissb16xrktaidcxqk=
 tg://proxy?server=78d8n.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
