@@ -1,3 +1,13 @@
+https://t.me/proxy?server=hh0000.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=ii0000.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=sop.foodpatuy.ir.&port=443&secret=3rbeyoissb16xrktaidcxqk=
+https://t.me/proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=
+tg://proxy?server=94.139.247.202&port=443&secret=dd6dc6c32df732ff33148c4217aa901c4d
+tg://proxy?server=89.167.12.40&port=443&secret=ee251e38db136e1ce2047237c71e5e1e866d6963726f736f66742e636f6d
+tg://proxy?server=89.167.111.71&port=443&secret=ee2eaa838768a8d24521233656516106d56d6963726f736f66742e636f6d
+tg://proxy?server=dedicated.syscloudio.co.uk&port=8443&secret=eerighjjvxrfgrmcimjdcq
+tg://proxy?server=itg.sivlena.ir&port=2053&secret=eea8e6d9b47b709022e52b2462ff91732a6974672e7369766c656e612e6972
+tg://proxy?server=resturant.zereshkpolo.info&port=7799&secret=dd10400103324995b07c030386e886e7f1
 https://t.me/proxy?server=167.233.89.249&port=443&secret=yyeegydjxfrfmgmcimjdjjruewvrdgfuzxqa
 https://t.me/proxy?server=167.233.81.41&port=443&secret=yyeegydjxfrfmgmcimjdjjruewvrdgfuzxqa
 https://t.me/proxy?server=0gg000.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -72,4 +82,3 @@ tg://proxy?server=108.165.233.137&port=443&secret=24bd7c651c0cdef3195110f94d4c92
 tg://proxy?server=212.108.98.24.suser.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
 tg://proxy?server=212.108.98.25.suser.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
 tg://proxy?server=212.108.98.244.suser.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
-https://t.me/proxy?server=JOKER.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
