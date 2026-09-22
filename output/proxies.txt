@@ -1,3 +1,13 @@
+https://t.me/proxy?server=royaclinic.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=ahvaz.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=sd.cipservice2.co.uk&port=2096&secret=eenegydjvxrfgrmcimjdcq
+https://t.me/proxy?server=iro.varfootball2.co.uk&port=2053&secret=eenegydjvxrfgrmcimjdcq
+https://t.me/proxy?server=bale.foltmeingop.co.uk&port=8880&secret=eenegydjvxrfgrmcimjdcq
+https://t.me/proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eenegydjvxrfgrmcimjdcq
+tg://proxy?server=65.21.234.12&port=443&secret=dd79e7010200010007f0030386e24c3add
+tg://proxy?server=at1.cdntube.monster&port=443&secret=ee77f3f762df1311d3b732245c9f0e30e16174312e63646e747562652e6d6f6e73746572
+tg://proxy?server=109.199.122.32&port=62119&secret=0be225c098590033badc5805ffe2b4a6
+https://t.me/proxy?server=JOKER.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=assets.helps.help&port=2096&secret=eenegydjvxrfgrmcimjdcq
 https://t.me/proxy?server=gateway.helps.help&port=2096&secret=eenegydjvxrfgrmcimjdcq
 https://t.me/proxy?server=status.helps.help&port=2096&secret=eenegydjvxrfgrmcimjdcq
@@ -56,13 +66,3 @@ tg://proxy?server=alevin.ekistics.sparrowhawk.gmateleserye.com&port=443&secret=e
 tg://proxy?server=irani.basictools9.ir&port=8443&secret=eerighjjvxrfgrmcimjdcq
 tg://proxy?server=87.107.81.195&port=443&secret=63837a4b10d10c100bbd0b533a983204
 tg://proxy?server=media.benzcls.co.uk&port=2096&secret=eenegydjvxrfgrmcimjdcq
-tg://proxy?server=exiscos.co.uk&port=8443&secret=eenegydjvxrfgrmcimjdcq
-tg://proxy?server=94.184.39.1122.suser.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
-tg://proxy?server=94.184.39.113.suser.ir&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
-tg://proxy?server=194.76.155.132&port=8443&secret=1603010200010001fc030386e24c3add
-tg://proxy?server=2.27.12.211&port=443&secret=ee692f62ffeab1e292b4e33a76565cc278646565707365656b2e636f6d
-tg://proxy?server=147.45.71.158&port=443&secret=ee114cff29942fad0d4874ab0b6d9b7dc06f7a6f6e2e7275
-tg://proxy?server=195.74.90.27&port=443&secret=ee820f5c0cd80efa4115f25130d350424d6d2e6265626f6f2e7275
-tg://proxy?server=cdn.wlrus.fun&port=7443&secret=eeb6d06df2fabaa65f86d2a2018867a17263646e2e776c7275732e66756e
-tg://proxy?server=65.109.177.65&port=8443&secret=dd79e344818749bd7ac519130220c25d09
-tg://proxy?server=65.109.178.37&port=8443&secret=dd79e344818749bd7ac519130220c25d09
