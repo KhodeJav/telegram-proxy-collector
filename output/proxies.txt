@@ -1,3 +1,9 @@
+tg://proxy?server=a34.mtjlpoto.fit&port=443&secret=eeef7017f26c9ecb71ed8d760999294318786170692e6f7a6f6e2e7275
+tg://proxy?server=a18.lovely.lat&port=443&secret=eeef7017f26c9ecb71ed8d760999294318786170692e6f7a6f6e2e7275
+tg://proxy?server=full-vasl.ir-xyz.gdhbvjshjrf.info&port=7443&secret=eenegydjvxrfgrmcimjdcq
+tg://proxy?server=srv-hukwss.giverra.sbs&port=443&secret=ee251e38db136e1ce2047237c71e5e1e866d6963726f736f66742e636f6d
+tg://proxy?server=tea.hotstbvs.ru&port=8843&secret=ee2c4047df04ea16c08c0a4cb094aec14a7465612e686f7473746276732e7275
+https://t.me/proxy?server=JOKER.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=veraspeed.ir&port=465&secret=eeba4032bb5b4ccb12dce4e927f5d1cab66d61696c2e746563686e6f6c6966652e636f6d
 https://t.me/proxy?server=62.238.58.78&port=1200&secret=ddb6825b65fb58e3bf4797385ed1ef46c6
 https://t.me/proxy?server=62.238.58.78&port=32000&secret=ee209988eb22701eeb58cf1f18b70c80eb313233302e3030316530642e78306531643078302e65306531
@@ -33,15 +39,3 @@ https://t.me/proxy?server=ajab.lolauth.info&port=8443&secret=1603010200010001fc0
 https://t.me/proxy?server=ghasam-be-shab.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=royaclinic.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=ahvaz.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=194.77.220.53&port=443&secret=kqrjrlzi4f28rvgs7swmng
-https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eenegydjvxrfgrmcimjdcq
-https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eenegydjvxrfgrmcimjdcq
-https://t.me/proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=tassian.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
