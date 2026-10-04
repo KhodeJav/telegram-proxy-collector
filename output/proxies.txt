@@ -1,3 +1,7 @@
+https://t.me/proxy?server=178.105.85.232&port=8443&secret=104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=2.28.224.49&port=8443&secret=104462821249bd7ac519130220c25d09
+tg://proxy?server=116.203.140.198&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=135.181.92.68&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=65.21.227.200&port=443&secret=3xnnaqiaaqah8amdhujmot0
 https://t.me/proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=torobchesho.co.uk&port=4443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01746f726f6263686573686f2e636f2e756b
