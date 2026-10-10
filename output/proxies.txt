@@ -32,13 +32,3 @@ https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249
 https://t.me/proxy?server=AZADI.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=co.uk.online-python.ir&port=3&secret=dd91a66a165ed8f9acb663baf3340889dc
 https://t.me/proxy?server=napoli.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=royaclinic.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=sd.cipservice2.co.uk&port=2096&secret=eenegydjvxrfgrmcimjdcq
-https://t.me/proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eenegydjvxrfgrmcimjdcq
-https://t.me/proxy?server=bale.foltmeingop.co.uk&port=8880&secret=eenegydjvxrfgrmcimjdcq
-https://t.me/proxy?server=iro.varfootball2.co.uk&port=2053&secret=eenegydjvxrfgrmcimjdcq
-https://t.me/proxy?server=co.uk.online-python.ir&port=3&secret=ee91a66a165ed8f9acb663baf3340889dc6572306530723065307230653072306530726663653072667830783030787878306530652e6972
-tg://proxy?server=persia.bingi.co.uk&port=8443&secret=eerighjjvxrfgrmcimjdcq
-tg://proxy?server=usb.neo-duo.co.uk&port=8443&secret=eerighjjvxrfgrmcimjdcq
-tg://proxy?server=iran.bingi.co.uk&port=8443&secret=eerighjjvxrfgrmcimjdcq
-tg://proxy?server=nfc.neo-duo.co.uk&port=8443&secret=eerighjjvxrfgrmcimjdcq
