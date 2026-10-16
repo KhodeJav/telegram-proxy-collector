@@ -1,3 +1,6 @@
+tg://proxy?server=termsnal.co.uk.&port=8443&secret=eenegydjvxrfgrmcimjdcq
+tg://proxy?server=46.225.116.155&port=443&secret=yyeegydjxfrfmgmcimjdjjruewvrdgfuzxqa
+tg://proxy?server=monorail.proxy.rlwy.net&port=52938&secret=654e03cc7529c0da7164ecad503d9d0d
 https://t.me/proxy?server=for.you.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=soh5.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
@@ -17,10 +20,3 @@ tg://proxy?server=333.nasakhamia.co.uk&port=8443&secret=eenegydjvxrfgrmcimjdcq
 https://t.me/proxy?server=napoli.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=luxuryman.sbs&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=royaclinic.beauty&port=4455&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=kabab.mikhay.co.uk&port=8443&secret=eerighjjvxrfgrmcimjdcq
-https://t.me/proxy?server=ir.closcloud.co.uk&port=8443&secret=eenegydjvxrfgrmcimjdcq
-https://t.me/proxy?server=haji.estabonita.co.uk&port=8443&secret=eerighjjvxrfgrmcimjdcq
-https://t.me/proxy?server=dashi.estabonita.co.uk&port=8443&secret=eerighjjvxrfgrmcimjdcq
-https://t.me/proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=tassian.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
