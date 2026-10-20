@@ -2,42 +2,42 @@
   "channels": {
     "-1001091853463": {
       "id": 1091853463,
-      "last_checked_at": "2026-10-19T23:41:01.960194+00:00",
+      "last_checked_at": "2026-10-20T02:06:17.439503+00:00",
       "last_message_id": 35090,
       "title": "Proxy MTProto | پروکسی",
       "username": "TelMTProto"
     },
     "-1001222575463": {
       "id": 1222575463,
-      "last_checked_at": "2026-10-19T23:41:00.353874+00:00",
+      "last_checked_at": "2026-10-20T02:06:17.157394+00:00",
       "last_message_id": 17050,
       "title": "دارک پروکسی | Proxy mtproto",
       "username": null
     },
     "-1001255505817": {
       "id": 1255505817,
-      "last_checked_at": "2026-10-19T23:40:58.253223+00:00",
+      "last_checked_at": "2026-10-20T02:06:16.646665+00:00",
       "last_message_id": 9192,
       "title": "MTProto Proxy | پروکسی",
       "username": null
     },
     "-1001393561803": {
       "id": 1393561803,
-      "last_checked_at": "2026-10-19T23:40:58.647486+00:00",
+      "last_checked_at": "2026-10-20T02:06:16.912606+00:00",
       "last_message_id": 11409,
       "title": "𝗧𝗲𝗹𝗣𝗝 | پروکسی‌ و‌ ویتوری رایگان",
       "username": null
     },
     "-1001985660752": {
       "id": 1985660752,
-      "last_checked_at": "2026-10-19T23:40:53.597740+00:00",
+      "last_checked_at": "2026-10-20T02:06:14.824910+00:00",
       "last_message_id": 76156,
       "title": "خبر +18 | اخبار فوری | اخبار جنگ",
       "username": null
     },
     "-1002199302258": {
       "id": 2199302258,
-      "last_checked_at": "2026-10-19T23:40:56.694183+00:00",
+      "last_checked_at": "2026-10-20T02:06:16.405869+00:00",
       "last_message_id": 37422,
       "title": "ProxyMars",
       "username": null
@@ -51,8 +51,8 @@
     },
     "-1002547984235": {
       "id": 2547984235,
-      "last_checked_at": "2026-10-19T23:40:55.132796+00:00",
-      "last_message_id": 6158,
+      "last_checked_at": "2026-10-20T02:06:16.176993+00:00",
+      "last_message_id": 6159,
       "title": "Mtproto Collector | Proxy",
       "username": "MtprotoCollector"
     },
@@ -72,10 +72,10 @@
     }
   },
   "meta": {
-    "active_proxies": 84,
+    "active_proxies": 87,
     "expired_proxies": 0,
-    "last_run_at": "2026-10-19T23:41:01.961301+00:00",
-    "new_proxies": 18,
+    "last_run_at": "2026-10-20T02:06:17.440442+00:00",
+    "new_proxies": 3,
     "retention_hours": 12,
     "successful_channels": 7,
     "total_channels": 7
@@ -205,6 +205,15 @@
         "channel": "-1001255505817",
         "message_date": "2026-10-19T08:48:13+00:00",
         "message_id": 9168
+      }
+    },
+    "2cb81b2d54e2615e0a7f0111273a81e7acaffc7ad4a5f0020b0b0a75c5f704e6": {
+      "first_seen": "2026-10-20T02:06:15.168782+00:00",
+      "proxy": "tg://proxy?server=79.137.196.223&port=21443&secret=ee70d02df07ecb5669b6eb010aba55eab07777772e636c6f7564666c6172652e636f6d",
+      "source": {
+        "channel": "-1002547984235",
+        "message_date": "2026-10-20T01:40:53+00:00",
+        "message_id": 6159
       }
     },
     "2cdf6e85b874b6c14cc402f3b04e440e179b7350d5b7c51d334aad77a6b653c1": {
@@ -612,6 +621,15 @@
         "message_id": 6155
       }
     },
+    "a83a6a195c1069dda1f39ac7660bddc416a360df4bdf5757617c1429e5789173": {
+      "first_seen": "2026-10-20T02:06:15.168754+00:00",
+      "proxy": "tg://proxy?server=pearl.lanternmoss.top&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
+      "source": {
+        "channel": "-1002547984235",
+        "message_date": "2026-10-20T01:40:53+00:00",
+        "message_id": 6159
+      }
+    },
     "ae19dcc2ed24f2834456045c8c270b828e411e7bbe88e323af3c63da44cad393": {
       "first_seen": "2026-10-19T14:20:25.670536+00:00",
       "proxy": "tg://proxy?server=brook.lite64.top&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
@@ -646,6 +664,15 @@
         "channel": "-1001091853463",
         "message_date": "2026-10-19T19:30:02+00:00",
         "message_id": 35089
+      }
+    },
+    "be4739bbf60b8aea94a9b2985a7abe26af2d38785a591d395e084978f1efac28": {
+      "first_seen": "2026-10-20T02:06:15.168795+00:00",
+      "proxy": "tg://proxy?server=jet.lite64.xyz&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
+      "source": {
+        "channel": "-1002547984235",
+        "message_date": "2026-10-20T01:40:53+00:00",
+        "message_id": 6159
       }
     },
     "beace0fa952a90f8e55aa738ee9d9823dc33c87a648c28e06ec83a15fb8ecd44": {
