@@ -2,43 +2,43 @@
   "channels": {
     "-1001091853463": {
       "id": 1091853463,
-      "last_checked_at": "2026-10-22T11:11:01.563762+00:00",
-      "last_message_id": 35112,
+      "last_checked_at": "2026-10-22T15:52:56.586577+00:00",
+      "last_message_id": 35113,
       "title": "Proxy MTProto | پروکسی",
       "username": "TelMTProto"
     },
     "-1001222575463": {
       "id": 1222575463,
-      "last_checked_at": "2026-10-22T11:11:00.123368+00:00",
-      "last_message_id": 17071,
+      "last_checked_at": "2026-10-22T15:52:55.132249+00:00",
+      "last_message_id": 17073,
       "title": "دارک پروکسی | Proxy mtproto",
       "username": null
     },
     "-1001255505817": {
       "id": 1255505817,
-      "last_checked_at": "2026-10-22T11:10:57.179143+00:00",
-      "last_message_id": 9224,
+      "last_checked_at": "2026-10-22T15:52:52.193646+00:00",
+      "last_message_id": 9230,
       "title": "MTProto Proxy | پروکسی",
       "username": null
     },
     "-1001393561803": {
       "id": 1393561803,
-      "last_checked_at": "2026-10-22T11:10:58.697390+00:00",
-      "last_message_id": 11414,
+      "last_checked_at": "2026-10-22T15:52:53.653623+00:00",
+      "last_message_id": 11416,
       "title": "𝗧𝗲𝗹𝗣𝗝 | پروکسی‌ و‌ ویتوری رایگان",
       "username": null
     },
     "-1001985660752": {
       "id": 1985660752,
-      "last_checked_at": "2026-10-22T11:10:52.381911+00:00",
-      "last_message_id": 76473,
-      "title": "خبر +18 | اخبار فوری | اخبار جنگ",
+      "last_checked_at": "2026-10-22T15:52:47.540021+00:00",
+      "last_message_id": 76507,
+      "title": "خبر 18+ | اخبار فوری | اخبار جنگ",
       "username": null
     },
     "-1002199302258": {
       "id": 2199302258,
-      "last_checked_at": "2026-10-22T11:10:55.629920+00:00",
-      "last_message_id": 37495,
+      "last_checked_at": "2026-10-22T15:52:50.714470+00:00",
+      "last_message_id": 37498,
       "title": "ProxyMars",
       "username": null
     },
@@ -51,8 +51,8 @@
     },
     "-1002547984235": {
       "id": 2547984235,
-      "last_checked_at": "2026-10-22T11:10:54.014799+00:00",
-      "last_message_id": 6173,
+      "last_checked_at": "2026-10-22T15:52:49.221878+00:00",
+      "last_message_id": 6175,
       "title": "Mtproto Collector | Proxy",
       "username": "MtprotoCollector"
     },
@@ -72,10 +72,10 @@
     }
   },
   "meta": {
-    "active_proxies": 38,
-    "expired_proxies": 51,
-    "last_run_at": "2026-10-22T11:11:01.564671+00:00",
-    "new_proxies": 25,
+    "active_proxies": 52,
+    "expired_proxies": 7,
+    "last_run_at": "2026-10-22T15:52:56.587369+00:00",
+    "new_proxies": 21,
     "retention_hours": 12,
     "successful_channels": 7,
     "total_channels": 7
@@ -88,6 +88,15 @@
         "channel": "-1001255505817",
         "message_date": "2026-10-22T09:14:45+00:00",
         "message_id": 9224
+      }
+    },
+    "04637cb802de2c886f450c1c2139486984845278e75c5204e676dfb5d4a3176f": {
+      "first_seen": "2026-10-22T15:52:49.732267+00:00",
+      "proxy": "https://t.me/proxy?server=185.113.10.85&port=6010&secret=dd6c60aec235dbb6406df1027696af9a25",
+      "source": {
+        "channel": "-1002199302258",
+        "message_date": "2026-10-22T11:47:02+00:00",
+        "message_id": 37496
       }
     },
     "056dbb0067d2317211a35803c4aac9f2f9b0ed9c56667fb5c24fb07b776cb921": {
@@ -108,22 +117,31 @@
         "message_id": 11414
       }
     },
-    "12a7692cb612bf08968bf503027faaab2b818faa6ede8da9f59aa5a056b78e04": {
-      "first_seen": "2026-10-22T00:47:15.206294+00:00",
-      "proxy": "tg://proxy?server=ivory.lite64.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
+    "0f4b7ee77f17152af8f3ebacef513c684fa0f899c3beee9c05010b6abc4f0e29": {
+      "first_seen": "2026-10-22T15:52:48.114483+00:00",
+      "proxy": "tg://proxy?server=shadow.lite64.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
       "source": {
         "channel": "-1002547984235",
-        "message_date": "2026-10-21T23:20:08+00:00",
-        "message_id": 6171
+        "message_date": "2026-10-22T15:00:10+00:00",
+        "message_id": 6174
       }
     },
-    "17930acdc0a23fdecd266e725d6552dcfd4c3bd95478072c33bf15fbff24ee4f": {
-      "first_seen": "2026-10-22T00:47:15.206339+00:00",
-      "proxy": "tg://proxy?server=sky.lite64.xyz&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
+    "1083833356a71a734e0bc43d91c1cef9291dbf3ed8c3d69554c241a26d68c594": {
+      "first_seen": "2026-10-22T15:52:51.213780+00:00",
+      "proxy": "https://t.me/proxy?server=AVA.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
       "source": {
-        "channel": "-1002547984235",
-        "message_date": "2026-10-21T23:20:08+00:00",
-        "message_id": 6171
+        "channel": "-1001255505817",
+        "message_date": "2026-10-22T14:10:27+00:00",
+        "message_id": 9230
+      }
+    },
+    "181bc3012653c3121bd21fa49a837e91cf8f4c32e976ec95c752c9c2144a4d7c": {
+      "first_seen": "2026-10-22T15:52:51.213767+00:00",
+      "proxy": "https://t.me/proxy?server=from.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "source": {
+        "channel": "-1001255505817",
+        "message_date": "2026-10-22T14:10:27+00:00",
+        "message_id": 9230
       }
     },
     "1cca634021d2691cdfa4f9b191f97844f859320007ee89ecc5ac3cb242b34f64": {
@@ -144,6 +162,15 @@
         "message_id": 6173
       }
     },
+    "245677cbd55cfdbf8d4979897594b07b9776cbce728a14e25456609fef779282": {
+      "first_seen": "2026-10-22T15:52:51.213775+00:00",
+      "proxy": "https://t.me/proxy?server=baran.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "source": {
+        "channel": "-1001255505817",
+        "message_date": "2026-10-22T14:10:27+00:00",
+        "message_id": 9230
+      }
+    },
     "29f01385c12b8e6c302c907a0061626b6de07ccce063cb82c9bef654c5685f5a": {
       "first_seen": "2026-10-22T11:11:00.567648+00:00",
       "proxy": "https://t.me/proxy?server=app.telbet.app&port=8443&secret=eenegydjvxrfgrmcimjdcq",
@@ -151,6 +178,15 @@
         "channel": "-1001091853463",
         "message_date": "2026-10-22T08:30:01+00:00",
         "message_id": 35111
+      }
+    },
+    "2cdf6e85b874b6c14cc402f3b04e440e179b7350d5b7c51d334aad77a6b653c1": {
+      "first_seen": "2026-10-22T15:52:51.213762+00:00",
+      "proxy": "https://t.me/proxy?server=leomessi.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "source": {
+        "channel": "-1001255505817",
+        "message_date": "2026-10-22T14:10:27+00:00",
+        "message_id": 9230
       }
     },
     "31475c5dbaf14ced756450b2f0492e35d7205d5a3664ee5e8f727f98c2ce884c": {
@@ -162,13 +198,31 @@
         "message_id": 9224
       }
     },
-    "39dbdbade1e9ea486c51f2ca7b40c2bdbad566fa831bc7d3e0cd721093d01dec": {
-      "first_seen": "2026-10-22T00:47:15.206327+00:00",
-      "proxy": "tg://proxy?server=topaz.lanternmoss.top&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
+    "3c925609aac0d81bcd59e3ce40718f4da316a197008f79c7db780de810b135d6": {
+      "first_seen": "2026-10-22T15:52:51.213771+00:00",
+      "proxy": "https://t.me/proxy?server=narooo.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
       "source": {
-        "channel": "-1002547984235",
-        "message_date": "2026-10-21T23:20:08+00:00",
-        "message_id": 6171
+        "channel": "-1001255505817",
+        "message_date": "2026-10-22T14:10:27+00:00",
+        "message_id": 9230
+      }
+    },
+    "412f18480956ce0c0c3e7480d3183962a808c5213a0fc14d14fda051dea0bfeb": {
+      "first_seen": "2026-10-22T15:52:55.602259+00:00",
+      "proxy": "https://t.me/proxy?server=panel.hook--tehran.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=",
+      "source": {
+        "channel": "-1001091853463",
+        "message_date": "2026-10-22T12:30:02+00:00",
+        "message_id": 35113
+      }
+    },
+    "447985e324ad0e96e97d7f4d42eb9ed939609e9e6e98a2f4f5711da792a2e8be": {
+      "first_seen": "2026-10-22T15:52:49.732287+00:00",
+      "proxy": "https://t.me/proxy?server=185.113.10.85&port=6010&secret=ee6c60aec235dbb6406df1027696af9a2577306530773073306530643065307777307730773077307730777730303030307730773077",
+      "source": {
+        "channel": "-1002199302258",
+        "message_date": "2026-10-22T11:47:02+00:00",
+        "message_id": 37496
       }
     },
     "461d03917e519f5aeba97d771b76f94fd590f859bea427ef4c39f476ba20bc5b": {
@@ -189,13 +243,13 @@
         "message_id": 11414
       }
     },
-    "4a8f287d4c02d6d66420c9462ea4fb356ed85d1603c142e5b0c88c5107fbd8ae": {
-      "first_seen": "2026-10-22T00:47:15.206319+00:00",
-      "proxy": "tg://proxy?server=spark.lite64.xyz&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
+    "4a1017e9131b8637366d5ae1779bddfa74865ad73468a25fbed751a08351dbda": {
+      "first_seen": "2026-10-22T15:52:48.114463+00:00",
+      "proxy": "tg://proxy?server=polar.lanternmoss.top&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
       "source": {
         "channel": "-1002547984235",
-        "message_date": "2026-10-21T23:20:08+00:00",
-        "message_id": 6171
+        "message_date": "2026-10-22T15:00:10+00:00",
+        "message_id": 6174
       }
     },
     "4ccf907182d4f775626fc5449945dfc42677b7c164b7e7533e5ea32651941cd0": {
@@ -205,15 +259,6 @@
         "channel": "-1001255505817",
         "message_date": "2026-10-22T09:14:45+00:00",
         "message_id": 9224
-      }
-    },
-    "4d37567f145f525a6e7b172dfd61826b69ac85c0c6b29b32db49d0bd5f800271": {
-      "first_seen": "2026-10-22T00:47:15.206345+00:00",
-      "proxy": "tg://proxy?server=delo47.tidelark.cc&port=443&secret=ee214011ba04108a7b1836df3a5e918b3b64656c6f34372e746964656c61726b2e6363",
-      "source": {
-        "channel": "-1002547984235",
-        "message_date": "2026-10-21T23:20:08+00:00",
-        "message_id": 6171
       }
     },
     "4dc75670b2a98c74d1eead3c648efd2112798051984fc9c699fb4c1d389d8c3d": {
@@ -234,6 +279,15 @@
         "message_id": 6173
       }
     },
+    "53cde4ec800418c743c6f74d96c44fb9c21c2ff600728c977de9111ad10e2e0f": {
+      "first_seen": "2026-10-22T15:52:48.114498+00:00",
+      "proxy": "tg://proxy?server=meadow.pebblewisp.xyz&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
+      "source": {
+        "channel": "-1002547984235",
+        "message_date": "2026-10-22T15:00:10+00:00",
+        "message_id": 6174
+      }
+    },
     "6e445cb970c18079bd9ea7d0bcc3a6edbd51726f25a9e2994fd8afe9e8e1b51c": {
       "first_seen": "2026-10-22T05:45:41.842360+00:00",
       "proxy": "tg://proxy?server=orca.pebblewisp.xyz&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
@@ -252,15 +306,6 @@
         "message_id": 6172
       }
     },
-    "8cf5d7dbb7ca754e85e3fa88949529faeafe6289bb066026f48786d5e5032732": {
-      "first_seen": "2026-10-22T00:47:15.206350+00:00",
-      "proxy": "tg://proxy?server=maple.lanternmoss.top&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
-      "source": {
-        "channel": "-1002547984235",
-        "message_date": "2026-10-21T23:20:08+00:00",
-        "message_id": 6171
-      }
-    },
     "8f623925b1bf1ff04981bb2ca042570ed86aadd3f502da8fe6c37b4c9faf6f7e": {
       "first_seen": "2026-10-22T11:10:59.141460+00:00",
       "proxy": "https://t.me/proxy?server=petros-es.co.uk.&port=443&secret=ee79e344818749bd7ac519130220c25d09706574726f732d65732e636f2e756b",
@@ -268,6 +313,15 @@
         "channel": "-1001222575463",
         "message_date": "2026-10-22T06:11:35+00:00",
         "message_id": 17069
+      }
+    },
+    "8f7f983333ca454cc94a332ddeb8fe6a401d5ff0e82c7e5e35ae7c873fc2e40d": {
+      "first_seen": "2026-10-22T15:52:51.213795+00:00",
+      "proxy": "https://t.me/proxy?server=joje.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "source": {
+        "channel": "-1001255505817",
+        "message_date": "2026-10-22T14:10:27+00:00",
+        "message_id": 9230
       }
     },
     "90ce6b882d0fba73f81d3a67873c06d16943cbdf4a6a58d7775be1282125107d": {
@@ -315,6 +369,15 @@
         "message_id": 11414
       }
     },
+    "a580c1552370a481e9ec4205b387c7f2772c1dc34acaf51e253c48a2670b166c": {
+      "first_seen": "2026-10-22T15:52:51.213791+00:00",
+      "proxy": "https://t.me/proxy?server=nigan.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "source": {
+        "channel": "-1001255505817",
+        "message_date": "2026-10-22T14:10:27+00:00",
+        "message_id": 9230
+      }
+    },
     "b26a80bf4a043848cb28386415f32bd665409255eb5396489cc8f91dd26097cc": {
       "first_seen": "2026-10-22T05:45:41.842354+00:00",
       "proxy": "tg://proxy?server=sun.lite64.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
@@ -324,6 +387,15 @@
         "message_id": 6172
       }
     },
+    "bca32f5dec2e8cb8915a1f6ae652c365875f8ffb8efeae24d88663ecec3d9e11": {
+      "first_seen": "2026-10-22T15:52:55.602278+00:00",
+      "proxy": "https://t.me/proxy?server=team.fast--pro.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=",
+      "source": {
+        "channel": "-1001091853463",
+        "message_date": "2026-10-22T12:30:02+00:00",
+        "message_id": 35113
+      }
+    },
     "c2c1ccb8e43f82c23d7d04e2ab689ef20f1682d9fbb3cbf3d91784c5f3e2c680": {
       "first_seen": "2026-10-22T11:10:53.008976+00:00",
       "proxy": "tg://proxy?server=neny42.tidelark.cc&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e6e656e7934322e746964656c61726b2e6363",
@@ -331,6 +403,24 @@
         "channel": "-1002547984235",
         "message_date": "2026-10-22T09:20:28+00:00",
         "message_id": 6173
+      }
+    },
+    "c3a59aeae07e819be0bb98d44c788d69818d42fbe1e2e19bbeb6b954a22b60d7": {
+      "first_seen": "2026-10-22T15:52:48.114493+00:00",
+      "proxy": "tg://proxy?server=nede81.mosswren.vip&port=443&secret=ee56df43598f1fce0f2fb3a1233652ee546e65646538312e6d6f73737772656e2e766970",
+      "source": {
+        "channel": "-1002547984235",
+        "message_date": "2026-10-22T15:00:10+00:00",
+        "message_id": 6174
+      }
+    },
+    "ccce9426df3591ad528f9f731feca183724b49de1c60bdb586fbf8b41685b48c": {
+      "first_seen": "2026-10-22T15:52:48.114502+00:00",
+      "proxy": "tg://proxy?server=opal.driftquill.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
+      "source": {
+        "channel": "-1002547984235",
+        "message_date": "2026-10-22T15:00:10+00:00",
+        "message_id": 6174
       }
     },
     "d21371e28482a40d3f4e3b9cd04ce2dccd7d870ef6f876621eacbbe838839b3a": {
@@ -358,6 +448,15 @@
         "channel": "-1002547984235",
         "message_date": "2026-10-22T03:40:08+00:00",
         "message_id": 6172
+      }
+    },
+    "dea02a573d1af4f4c36594131cb0eb8b21027bb9206b751e41ff3f1fb1b4c5de": {
+      "first_seen": "2026-10-22T15:52:51.213788+00:00",
+      "proxy": "https://t.me/proxy?server=meshki.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "source": {
+        "channel": "-1001255505817",
+        "message_date": "2026-10-22T14:10:27+00:00",
+        "message_id": 9230
       }
     },
     "e30ceb4df3d27b695bb8e18298ab23fb448d4aa141d3692a85a94768e793be6b": {
@@ -396,13 +495,31 @@
         "message_id": 11414
       }
     },
-    "e9feea62c9eb799998e4c23d431eb46fa9d69d373d26cb0f83898b9dcdc38cb9": {
-      "first_seen": "2026-10-22T00:47:15.206334+00:00",
-      "proxy": "tg://proxy?server=jet.pebblewisp.xyz&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
+    "eed0efb0668e5dc2f994ff0da2d99a6d24331a9b11687ab7bb846db8a0a5f59f": {
+      "first_seen": "2026-10-22T15:52:48.114489+00:00",
+      "proxy": "tg://proxy?server=volt.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
       "source": {
         "channel": "-1002547984235",
-        "message_date": "2026-10-21T23:20:08+00:00",
-        "message_id": 6171
+        "message_date": "2026-10-22T15:00:10+00:00",
+        "message_id": 6174
+      }
+    },
+    "f0bbf16929fd7034d26a898a8349d647b3878d5c1827e138497e0ecc54a965e1": {
+      "first_seen": "2026-10-22T15:52:51.213756+00:00",
+      "proxy": "https://t.me/proxy?server=cr777.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "source": {
+        "channel": "-1001255505817",
+        "message_date": "2026-10-22T14:10:27+00:00",
+        "message_id": 9230
+      }
+    },
+    "f55a9d8f2134b99730bdd00872bf3694b805f71c89bd7218b2393e4a2847eda0": {
+      "first_seen": "2026-10-22T15:52:51.213784+00:00",
+      "proxy": "https://t.me/proxy?server=sefid.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "source": {
+        "channel": "-1001255505817",
+        "message_date": "2026-10-22T14:10:27+00:00",
+        "message_id": 9230
       }
     },
     "f6c48979709fa464fb199b8f5fe431b83f8453ecaa11863d731825820434f16f": {
@@ -412,6 +529,15 @@
         "channel": "-1002547984235",
         "message_date": "2026-10-22T09:20:28+00:00",
         "message_id": 6173
+      }
+    },
+    "f8c1abe2035216dccf95c369294bfc259f61ea936d3b4a6c96462f2e93fe9575": {
+      "first_seen": "2026-10-22T15:52:51.213737+00:00",
+      "proxy": "https://t.me/proxy?server=behtarin.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "source": {
+        "channel": "-1001255505817",
+        "message_date": "2026-10-22T14:10:27+00:00",
+        "message_id": 9230
       }
     },
     "fb6f9f9a430218a16349baa27b691b93077fc56f6fb65a86a1ca6673a8644814": {
