@@ -1,3 +1,8 @@
+https://t.me/proxy?server=f123.e7.yayayajd.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=1y23.e7.yayayajd.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=frost.driftquill.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b307777772e676f6f676c652e636f6d
+tg://proxy?server=birch.lite64.top&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b307777772e676f6f676c652e636f6d
+tg://proxy?server=spark.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b307777772e676f6f676c652e636f6d
 https://t.me/proxy?server=napoli.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=s3.saalaad.info&port=8443&secret=eenegydjvxrfgrmcimjdcq
 https://t.me/proxy?server=s3.soft98.co.uk&port=8443&secret=eenegydjvxrfgrmcimjdcq
