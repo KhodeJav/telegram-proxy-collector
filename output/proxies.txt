@@ -1,3 +1,9 @@
+https://t.me/proxy?server=185.113.10.85&port=6010&secret=ee6c60aec235dbb6406df1027696af9a2577306530773073306530643065307777307730773077307730777730303030307730773077
+https://t.me/proxy?server=185.113.10.85&port=6010&secret=dd6c60aec235dbb6406df1027696af9a25
+tg://proxy?server=iris.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b307777772e676f6f676c652e636f6d
+tg://proxy?server=signal.hollowfern.sbs&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b307777772e676f6f676c652e636f6d
+tg://proxy?server=zephyr.lite64.top&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b307777772e676f6f676c652e636f6d
+https://t.me/proxy?server=napoli.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=d1.jadroom.co.uk&port=443&secret=3rbeyoissb16xrktaidcxqk=
 https://t.me/proxy?server=alipo10.ir.&port=3443&secret=ee79e344818749bd7ac519130220c25d09706574726f732d65732e636f2e756b
 https://t.me/proxy?server=alipo11.ir.&port=3443&secret=ee79e344818749bd7ac519130220c25d09706574726f732d65732e636f2e756b
