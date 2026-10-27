@@ -1,3 +1,13 @@
+https://t.me/proxy?server=petros-es.co.uk.&port=443&secret=ee79e344818749bd7ac519130220c25d09706574726f732d65732e636f2e756b
+tg://proxy?server=49.12.36.40&port=8443&secret=eerighjjvxrfgrmcimjdcq
+tg://proxy?server=Pasargad.ir.bcsadwtgd.info.&port=7443&secret=eenegydjvxrfgrmcimjdcq
+tg://proxy?server=178.105.201.7&port=8443&secret=eerighjjvxrfgrmcimjdcq
+tg://proxy?server=178.105.127.56&port=8443&secret=eerighjjvxrfgrmcimjdcq
+tg://proxy?server=amoo.bingi.co.uk&port=8443&secret=eerighjjvxrfgrmcimjdcq
+tg://proxy?server=meadow.hollowfern.sbs&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b307777772e676f6f676c652e636f6d
+tg://proxy?server=bolt.lite64.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b307777772e676f6f676c652e636f6d
+tg://proxy?server=falcon.lite64.click&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b307777772e676f6f676c652e636f6d
+tg://proxy?server=pearl.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b307777772e676f6f676c652e636f6d
 https://t.me/proxy?server=royaclinic.beauty&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=luxuryman.sbs&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=nigan.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
