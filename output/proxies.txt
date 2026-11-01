@@ -1,3 +1,7 @@
+https://t.me/proxy?server=mio.miosen.cyou&port=8443&secret=eenegydjvxrfgrmcimjdcq
+tg://proxy?server=see.ketab.info&port=8443&secret=eenegydjvxrfgrmcimjdcq
+tg://proxy?server=ketri.samavar.co.uk&port=8443&secret=eenegydjvxrfgrmcimjdcq
+tg://proxy?server=91.107.166.216&port=443&secret=3xnnaqiaaqah8amdhujmot0
 https://t.me/proxy?server=telegram.telbet.app&port=8443&secret=eenegydjvxrfgrmcimjdcq
 https://t.me/proxy?server=Help.helps.help&port=8443&secret=eenegydjvxrfgrmcimjdcq
 https://t.me/proxy?server=NET.hoookoopdn.site.&port=443&secret=3rbeyoissb16xrktaidcxqk=
