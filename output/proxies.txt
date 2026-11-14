@@ -1,3 +1,9 @@
+tg://proxy?server=103.161.35.23&port=443&secret=3xnnaqiaaqah8amdhujmot0
+tg://proxy?server=79.137.196.223&port=11443&secret=ee8a160975fad14b21992a65e0db4b7cfa7777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=194.120.230.106&port=443&secret=3xnnaqiaaqah8amdhujmot0
+tg://proxy?server=net.hoookoopdn.site&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=109.70.74.181&port=443&secret=9a8be1ea80f2c15c0ff1e4f8c53f5791
 https://t.me/proxy?server=math-test.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=becarefull.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=91.98.219.255&port=8443&secret=dd5f7ce28a2c4816c6c923dfd4d5630e01dd
