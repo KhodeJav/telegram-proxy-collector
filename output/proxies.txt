@@ -1,3 +1,16 @@
+https://t.me/proxy?server=naznazi.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=fandogh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=parts.kemerovo.online&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c
+tg://proxy?server=ram7.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=opss.anotelinopalk.co.uk&port=8880&secret=eenegydjvxrfgrmcimjdcq
+tg://proxy?server=naznazi.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=zenith.lanternmoss.top&port=443&secret=ee3af44f54fb6bb24e664d38ffb1a781197a656e6974682e6c616e7465726e6d6f73732e746f70
+tg://proxy?server=letsgo.sinlx.ir.&port=8443&secret=3rbeyoissb16xrktaidcxqk=
+tg://proxy?server=khune.ir.bcsadwtgd.info.&port=7443&secret=eenegydjvxrfgrmcimjdcq
+tg://proxy?server=gamecenter.amaster.xyz.&port=8443&secret=eerighjjvxrfgrmcimjdcq==
+tg://proxy?server=aurora.heronglade.space&port=8443&secret=eedac1697485fe37f9c1435848f8ec2ff5706574726f766963682e7275
+tg://proxy?server=Jei.fl.k4.cj.d.hyi.dj.deragbaz.ir.&port=8443&secret=eenegydjvxrfgrmcimjdcq
+tg://proxy?server=stream.amaster.xyz.&port=8443&secret=eerighjjvxrfgrmcimjdcq==
 https://t.me/proxy?server=ram7.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=fandogh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=server63.server-space52.info&port=2020&secret=aaaaaaaaaaaaaaaaaaaaaa==
@@ -50,6 +63,3 @@ tg://proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac51
 tg://proxy?server=79.137.196.223&port=4443&secret=eeee4026e99e99216664b0cb156da676d7707777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=194.120.230.120&port=443&secret=3xnnaqiaaqah8amdhujmot0
 https://t.me/proxy?server=wolverhampton.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=you.pelastic.co.uk.&port=443&secret=ddc3b375786a3b9630e44cf87d2033a441
-https://t.me/proxy?server=NET.hoookoopdn.site.&port=443&secret=3rbeyoissb16xrktaidcxqk=
-https://t.me/proxy?server=panel.hook--tehran.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=
