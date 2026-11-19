@@ -2,42 +2,42 @@
   "channels": {
     "-1001091853463": {
       "id": 1091853463,
-      "last_checked_at": "2026-11-18T23:23:02.055248+00:00",
+      "last_checked_at": "2026-11-19T04:21:56.485531+00:00",
       "last_message_id": 35400,
       "title": "Proxy MTProto | پروکسی",
       "username": "TelMTProto"
     },
     "-1001222575463": {
       "id": 1222575463,
-      "last_checked_at": "2026-11-18T23:23:00.733125+00:00",
+      "last_checked_at": "2026-11-19T04:21:56.188010+00:00",
       "last_message_id": 17261,
       "title": "دارک پروکسی | Proxy mtproto",
       "username": null
     },
     "-1001255505817": {
       "id": 1255505817,
-      "last_checked_at": "2026-11-18T23:22:59.215525+00:00",
+      "last_checked_at": "2026-11-19T04:21:55.591607+00:00",
       "last_message_id": 9687,
       "title": "MTProto Proxy | پروکسی",
       "username": null
     },
     "-1001393561803": {
       "id": 1393561803,
-      "last_checked_at": "2026-11-18T23:22:59.427213+00:00",
+      "last_checked_at": "2026-11-19T04:21:55.896682+00:00",
       "last_message_id": 11575,
       "title": "𝗧𝗲𝗹𝗣𝗝 | پروکسی‌ و‌ ویتوری رایگان",
       "username": null
     },
     "-1001985660752": {
       "id": 1985660752,
-      "last_checked_at": "2026-11-18T23:22:55.254700+00:00",
+      "last_checked_at": "2026-11-19T04:21:53.573466+00:00",
       "last_message_id": 79381,
       "title": "خبر 18+ | اخبار فوری جنگ",
       "username": null
     },
     "-1002199302258": {
       "id": 2199302258,
-      "last_checked_at": "2026-11-18T23:22:57.909023+00:00",
+      "last_checked_at": "2026-11-19T04:21:55.297291+00:00",
       "last_message_id": 38244,
       "title": "ProxyMars",
       "username": null
@@ -51,8 +51,8 @@
     },
     "-1002547984235": {
       "id": 2547984235,
-      "last_checked_at": "2026-11-18T23:22:56.598673+00:00",
-      "last_message_id": 6306,
+      "last_checked_at": "2026-11-19T04:21:55.005997+00:00",
+      "last_message_id": 6307,
       "title": "Mtproto Collector | Proxy",
       "username": "MtprotoCollector"
     },
@@ -72,10 +72,10 @@
     }
   },
   "meta": {
-    "active_proxies": 67,
-    "expired_proxies": 4,
-    "last_run_at": "2026-11-18T23:23:02.056086+00:00",
-    "new_proxies": 29,
+    "active_proxies": 70,
+    "expired_proxies": 0,
+    "last_run_at": "2026-11-19T04:21:56.486490+00:00",
+    "new_proxies": 3,
     "retention_hours": 12,
     "successful_channels": 7,
     "total_channels": 7
@@ -124,6 +124,15 @@
         "channel": "-1002547984235",
         "message_date": "2026-11-18T21:21:12+00:00",
         "message_id": 6306
+      }
+    },
+    "075dc27b6c57604066bea1edb5880ab73837cc4c19fc17ff9d091399df5d5d3d": {
+      "first_seen": "2026-11-19T04:21:54.011169+00:00",
+      "proxy": "tg://proxy?server=my.silvpn.su&port=443&secret=eeea7a1978e167c0842ce31a16749038da6d792e6e657763646e2e7275",
+      "source": {
+        "channel": "-1002547984235",
+        "message_date": "2026-11-18T23:41:11+00:00",
+        "message_id": 6307
       }
     },
     "0dd1738c7e0d00270cabc8b4b310a40b9801c13ad11d0ea722af9c15716c1d6f": {
@@ -340,6 +349,15 @@
         "channel": "-1001091853463",
         "message_date": "2026-11-18T12:30:01+00:00",
         "message_id": 35395
+      }
+    },
+    "81f7f2f3c7c606b1929773d399919388a6b6a755630c98c4fcbe4432999ee133": {
+      "first_seen": "2026-11-19T04:21:54.011139+00:00",
+      "proxy": "tg://proxy?server=168.119.142.46&port=443&secret=3xnnaqiaaqah8amdhujmot0",
+      "source": {
+        "channel": "-1002547984235",
+        "message_date": "2026-11-18T23:41:11+00:00",
+        "message_id": 6307
       }
     },
     "89b12662e90d55c420e18c9a44074e9663e179470d2e3c17a242b05705d6df98": {
@@ -610,6 +628,15 @@
         "channel": "-1001255505817",
         "message_date": "2026-11-18T22:06:58+00:00",
         "message_id": 9687
+      }
+    },
+    "e0743c43ec591865b3ddeef5d652d369aaf35fe6f2ffbe70e161dc7bbd503a55": {
+      "first_seen": "2026-11-19T04:21:54.011163+00:00",
+      "proxy": "tg://proxy?server=pasargad.ir.bcsadwtgd.info&port=7443&secret=79e344818749bd7ac519130220c25d09",
+      "source": {
+        "channel": "-1002547984235",
+        "message_date": "2026-11-18T23:41:11+00:00",
+        "message_id": 6307
       }
     },
     "e57501c0cca7ea57733a851cff9d3aebaca784168dc33908f3767edd6b5e78e9": {

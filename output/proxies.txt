@@ -1,3 +1,6 @@
+tg://proxy?server=my.silvpn.su&port=443&secret=eeea7a1978e167c0842ce31a16749038da6d792e6e657763646e2e7275
+tg://proxy?server=pasargad.ir.bcsadwtgd.info&port=7443&secret=79e344818749bd7ac519130220c25d09
+tg://proxy?server=168.119.142.46&port=443&secret=3xnnaqiaaqah8amdhujmot0
 https://t.me/proxy?server=khosh-khande.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=gardeshgar.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=fandogh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09
