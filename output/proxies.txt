@@ -1,3 +1,12 @@
+tg://proxy?server=mohandes.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=matrixxx.wtf&port=443&secret=ee9250b2b65b8921d01a306376fc2dd2ca6d617472697878782e777466
+tg://proxy?server=teledomen.lol&port=443&secret=ee47865459ee8e60d17b7374b5c7b53d086d6170792e636f6d
+tg://proxy?server=91.221.190.198&port=443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=dhe9.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=godratmand-server.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=77eh.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
+tg://proxy?server=iran-cinema-acctor.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970
 https://t.me/proxy?server=you.pelastic.co.uk.&port=443&secret=ddc3b375786a3b9630e44cf87d2033a441
 https://t.me/proxy?server=sudoaptupdate-y-sudoaptupgrade-y.logmanfi.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=mohandes.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
