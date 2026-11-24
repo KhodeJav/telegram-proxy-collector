@@ -48,14 +48,3 @@ tg://proxy?server=mohsen.helps.help&port=8443&secret=eenegydjvxrfgrmcimjdcq
 tg://proxy?server=ketab.info&port=8443&secret=eenegydjvxrfgrmcimjdcq
 https://t.me/proxy?server=from.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=wolverhampton.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
-https://t.me/proxy?server=up.samavar.co.uk&port=8443&secret=eenegydjvxrfgrmcimjdcq
-https://t.me/proxy?server=off.namenewok.info&port=8443&secret=eenegydjvxrfgrmcimjdcq
-https://t.me/proxy?server=d1.jadroom.co.uk.&port=443&secret=3rbeyoissb16xrktaidcxqk=
-https://t.me/proxy?server=157.90.57.54&port=8443&secret=dd104462821249bd7ac519130220c25d09
-tg://proxy?server=off.namenewok.info&port=8443&secret=eenegydjvxrfgrmcimjdcq
-tg://proxy?server=up.samavar.co.uk&port=8443&secret=eenegydjvxrfgrmcimjdcq
-tg://proxy?server=susu87.sorrelbay.xyz&port=8443&secret=eea642c4bcbaceb5aa415464da57a03a37617669746f2e7275
-tg://proxy?server=deny72.ashwren.xyz&port=443&secret=eea642c4bcbaceb5aa415464da57a03a37706574726f766963682e7275
-tg://proxy?server=gapolo64.kelpmoor.xyz&port=443&secret=eefa048bc9fcc498244c3c7c8b2c2388d562726f777365722e79616e6465782e7275
-tg://proxy?server=bamboo.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9462616d626f6f2e7061706572746561706f742e636f6d
-tg://proxy?server=bamboo.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9462616d626f6f2e76656c76657477696e646f772e6363
